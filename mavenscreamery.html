@@ -1,0 +1,58 @@
+Skip to content
+This repository
+Search
+Pull requests
+Issues
+Marketplace
+Gist
+ @annahashimoto1227
+ Sign out
+ Watch 0
+  Star 0
+  Fork 2 annahashimoto1227/bayareahotspots
+ Code  Issues 0  Pull requests 2  Projects 1  Wiki  Settings Insights 
+Branch: gh-pages Find file Copy pathbayareahotspots/ketsourinemacarons.html
+1ac73e6  an hour ago
+@hsheikh000 hsheikh000 webpage for ketsourine macarons
+1 contributor
+RawBlameHistory     
+38 lines (32 sloc)  1.02 KB
+<!DOCTYPE html>
+<body>
+<h1>Maven's Creamery</h1>
+<p>
+address:
+1701 S 7th St suite 7, San Jose, CA 95112
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <body>
+
+  <div class="w3-container">
+
+    <p>Click on the images to display them in full size.</p>
+  </div>
+
+  <div class="w3-row-padding">
+    <div class="w3-container w3-third">
+      <img src="mavenscreamery.jpg" style="width:100%;cursor:pointer"
+      onclick="onClick(this)" class="w3-hover-opacity">
+    </div>
+
+  </div>
+  <div id="modal01" class="w3-modal" onclick="this.style.display='none'">
+    <span class="w3-button w3-hover-red w3-xlarge w3-display-topright">&times;</span>
+    <div class="w3-modal-content w3-animate-zoom">
+      <img id="img01" style="width:100%">
+    </div>
+  </div>
+  <script>
+  function onClick(element) {
+    document.getElementById("img01").src = element.src;
+    document.getElementById("modal01").style.display = "block";
+  }
+  </script>
+
+</body>
+</html>
+Contact GitHub API Training Shop Blog About
+© 2017 GitHub, Inc. Terms Privacy Security Status Help
