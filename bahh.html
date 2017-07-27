@@ -4,12 +4,10 @@
 <link href='https://fonts.googleapis.com/css?family=Crushed' rel='stylesheet'>
 <style>
 body {margin:0;}
-
 .topnav {
   overflow: hidden;
   background-color: #ffccff; <!--color of the manu bar->
 }
-
 .topnav a {
   float: left;
   display: block;
@@ -19,16 +17,13 @@ body {margin:0;}
   text-decoration: none;
   font-size: 17px;
 }
-
 .topnav a:hover {
   background-color: #ddd;
   color: black;
 }
-
 .topnav .icon {
   display: none;
 }
-
 @media screen and (max-width: 600px) {
   .topnav a:not(:first-child) {display: none;}
   .topnav a.icon {
@@ -36,7 +31,6 @@ body {margin:0;}
     display: block;
   }
 }
-
 @media screen and (max-width: 600px) {
   .topnav.responsive {position: relative;}
   .topnav.responsive .icon {
@@ -49,15 +43,12 @@ body {margin:0;}
     display: block;
     text-align: left;
   }
-
 }
-
 h1{
 	font-family: 'Crushed';
 	text-align: center;
 	font-size: 250%
 }
-
 p1{
 	font-family: 'Crushed';
 	text-align: center;
@@ -90,6 +81,7 @@ function myFunction() {
     }
 }
 </script>
+
 <div class="content">
 <h1>BAY AREA HOTSPOTS </h1>
 <br>
@@ -98,7 +90,32 @@ An interactive website that allows you to find popular and trendy food eateries 
 </p1>
     <br>
 
-<img src="home temporary pic.jpg" alt="desserthome" style="width:1000px;height:350px;">
+<body>
+
+<div class="w3-content w3-section" style="max-width:500px">
+  <img class="mySlides" src="homepagemacaron.jpg" style="width:100%">
+  <img class="mySlides" src="homepagecoffee.jpg" style="width:100%">
+    <img class="mySlides" src="homepagemilktea.jpg" style="width:100%">
+  <img class="mySlides" src="homepageicecream.jpg" style="width:100%">
+</div>
+
+<script>
+var myIndex = 0;
+carousel();
+
+function carousel() {
+    var i;
+    var x = document.getElementsByClassName("mySlides");
+    for (i = 0; i < x.length; i++) {
+       x[i].style.display = "none";  
+    }
+    myIndex++;
+    if (myIndex > x.length) {myIndex = 1}    
+    x[myIndex-1].style.display = "block";  
+    setTimeout(carousel, 2000); // Change image every 2 seconds
+}
+</script>
+
 </div>
 </body>
 </html>
