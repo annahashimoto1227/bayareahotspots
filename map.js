@@ -110,7 +110,7 @@ function initMap() {
 var contentString2 = '<div id="content">'+
       '<div id="siteNotice">'+
       '</div>'+
-      '<h1 id="firstHeading" class="firstHeading">Pekoe</h1>'+
+      '<h1 id="firstHeading" class="firstHeading", href = "pekoe.html">Pekoe</h1>'+
       '<div id="bodyContent">'+
       '<p>3276 S White Rd, San Jose, CA 95148</p>' +
 '<img id="myImage" src="https://s3-media2.fl.yelpcdn.com/bphoto/vaZcTlmFJLKUnMA_ktvTrw/o.jpg" height=150 width=150></img>' +
