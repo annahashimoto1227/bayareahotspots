@@ -103,26 +103,25 @@ function initMap() {
       '<div id="siteNotice">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">T-pumps</h1>'+
-      '<div id="bodyContent">'+
-      '<p>A great boba place in San Francisco</p>' +'<p>1916 Irving St, San Francisco, CA 94122</p>' +
+      '<div id="bodyContent">'+'<p>1916 Irving St, San Francisco, CA 94122</p>' +
 '<img id="myImage" src="https://media.fivestars.com/biz_pictures/13b8ce4ab8e14a708f966a000561d5e2.png" height=150 width=150></img>' +
       '</div>'+
       '</div>';
-	var contentString2 = '<div id="content">'+
+var contentString2 = '<div id="content">'+
       '<div id="siteNotice">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Pekoe</h1>'+
       '<div id="bodyContent">'+
-      '<p>more boba</p>' +'<p>3276 S White Rd, San Jose, CA 95148</p>' +
+      '<p>3276 S White Rd, San Jose, CA 95148</p>' +
 '<img id="myImage" src="https://s3-media2.fl.yelpcdn.com/bphoto/vaZcTlmFJLKUnMA_ktvTrw/o.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
-   var contentString3 = '<div id="content">'+
+ var contentString3 = '<div id="content">'+
       '<div id="siteNotice">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Gongcha</h1>'+
       '<div id="bodyContent">'+
-      '<p>more boba</p>' +'<p>46827 Warm Springs Blvd #101, Fremont, CA 94539</p>' +
+      '<p>46827 Warm Springs Blvd #101, Fremont, CA 94539</p>' +
 '<img id="myImage" src="https://scontent-amt2-1.cdninstagram.com/t51.2885-15/s320x320/e35/18512659_1443047192413100_368464299431034880_n.jpg?ig_cache_key=MTUxODMxNzkxNzQ5ODIxNTM5NA%3D%3D.2" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -131,7 +130,7 @@ function initMap() {
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Moo Bar</h1>'+
       '<div id="bodyContent">'+
-      '<p>more boba</p>' +'<p>1080 Kiely Blvd, Santa Clara, CA 95051</p>' +
+      '<p>1080 Kiely Blvd, Santa Clara, CA 95051</p>' +
 '<img id="myImage" src="https://s3-media3.fl.yelpcdn.com/bphoto/6MNhqV7zrNdzTdiK4vqzHw/o.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -140,7 +139,7 @@ function initMap() {
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">The Baked Bear of Fishermans Wharf</h1>'+
       '<div id="bodyContent">'+
-      '<p>ice cream</p>' +'<p>2824 Jones St, San Francisco, CA 94133</p>' +
+      '<p>2824 Jones St, San Francisco, CA 94133</p>' +
 '<img id="myImage" src="https://s3-media4.fl.yelpcdn.com/bphoto/8fqqN6L3cNT3IswDbWKm4A/o.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -149,7 +148,7 @@ function initMap() {
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">STEEP Creamery & Tea</h1>'+
       '<div id="bodyContent">'+
-      '<p>more boba</p>' +'<p>270 Brannan St, San Francisco, CA 94107</p>' +
+      '<p>270 Brannan St, San Francisco, CA 94107</p>' +
 '<img id="myImage" src="https://s3-media3.fl.yelpcdn.com/bphoto/071-8PyEDwXBAwhMKkQ7-w/o.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -158,7 +157,7 @@ function initMap() {
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Uji Time</h1>'+
       '<div id="bodyContent">'+
-      '<p>more boba</p>' +'<p>2575 Telegraph Ave, Berkeley, CA 94704</p>' +
+      '<p>2575 Telegraph Ave, Berkeley, CA 94704</p>' +
 '<img id="myImage" src="https://s3-media1.fl.yelpcdn.com/bphoto/92RgfLHRABBCNxBsBoGg0w/ls.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -167,7 +166,7 @@ function initMap() {
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Vampire Penguin</h1>'+
       '<div id="bodyContent">'+
-      '<p>weird stuff</p>' +'<p>2671 Cropley Ave, San Jose, CA 95132</p>' +
+      '<p>2671 Cropley Ave, San Jose, CA 95132</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s480x480/e35/19366969_1209244965865547_6237434270718099456_n.jpg?ig_cache_key=MTU0MzIwNjEyMzIzNDE5Njc1MQ%3D%3D.2" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -176,7 +175,7 @@ function initMap() {
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Popbar</h1>'+
       '<div id="bodyContent">'+
-      '<p>gelato</p>' +'<p>1628 Hostetter Rd, San Jose, CA 95131</p>' +
+      '<p>1628 Hostetter Rd, San Jose, CA 95131</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/19534729_298747180596256_8706358107283914752_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -185,7 +184,7 @@ function initMap() {
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Snowy Village</h1>'+
       '<div id="bodyContent">'+
-      '<p>snow</p>' +'<p>1078 E Brokaw Rd #40, San Jose, CA 95131</p>' +
+      '<p>1078 E Brokaw Rd #40, San Jose, CA 95131</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19437090_325433227901522_4474000675566518272_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -194,16 +193,16 @@ function initMap() {
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Yumi Yogurt</h1>'+
       '<div id="bodyContent">'+
-      '<p>Ice cream</p>' +'<p>3787 Stevens Creek Blvd, Santa Clara, CA 95051</p>' +
+      '<p>3787 Stevens Creek Blvd, Santa Clara, CA 95051</p>' +
 '<img id="myImage" src="https://s3-media1.fl.yelpcdn.com/bphoto/gKr0PS-dxKDYr-YJ2ePnDg/348s.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
- 	var contentString12 = '<div id="content">'+
+ var contentString12 = '<div id="content">'+
       '<div id="siteNotice">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Milkcow</h1>'+
       '<div id="bodyContent">'+
-      '<p>Ice cream</p>' +'<p>5657 Auto Mall Pkwy, Fremont, CA 94538</p>' +
+      '<p>5657 Auto Mall Pkwy, Fremont, CA 94538</p>' +
 '<img id="myImage" src="https://s3.burpple.com/foods/3395821299bd05bad3c1220280_original.?1426350918" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -212,7 +211,7 @@ function initMap() {
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">O\'Honey</h1>'+
       '<div id="bodyContent">'+
-      '<p>Ice cream</p>' +'<p>3600 Fallon Rd, Dublin, CA 94568</p>' +
+      '<p>3600 Fallon Rd, Dublin, CA 94568</p>' +
 '<img id="myImage" src="https://s3-media4.fl.yelpcdn.com/bphoto/lwI99X5R7T8wMWVykXBUuw/o.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -221,7 +220,7 @@ function initMap() {
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Yummi Hotpot and Tea</h1>'+
       '<div id="bodyContent">'+
-      '<p>Ice cream</p>' +'<p>2181 Morrill Ave, San Jose, CA 95132</p>' +
+      '<p>2181 Morrill Ave, San Jose, CA 95132</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.134.1080.1080/19425433_1919013771643789_8505692055484235776_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -230,7 +229,7 @@ function initMap() {
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Meet Fresh</h1>'+
       '<div id="bodyContent">'+
-      '<p>Ice cream</p>' +'<p>19449 Stevens Creek Blvd #120, Cupertino, CA 95014</p>' +
+      '<p>19449 Stevens Creek Blvd #120, Cupertino, CA 95014</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/18096130_114280825799354_2470041206667608064_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -239,7 +238,7 @@ function initMap() {
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Boba Guys</h1>'+
       '<div id="bodyContent">'+
-      '<p>Ice cream</p>' +'<p>872 Laurel St, San Carlos, CA 94070</p>' +
+      '<p>872 Laurel St, San Carlos, CA 94070</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/17266277_218915318584494_1719213788693004288_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -248,7 +247,7 @@ function initMap() {
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Tequation Cafe</h1>'+
       '<div id="bodyContent">'+
-      '<p>tea</p>' +'<p>1036 El Camino Real, Redwood City, CA 94063</p>' +
+      '<p>1036 El Camino Real, Redwood City, CA 94063</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.18.1080.1080/16230978_368042460242730_3187793674201202688_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -257,7 +256,7 @@ function initMap() {
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Queen\'s Cafe</h1>'+
       '<div id="bodyContent">'+
-      '<p>snow</p>' +'<p>372 Barber Ln, Milpitas, CA 95035</p>' +
+      '<p>372 Barber Ln, Milpitas, CA 95035</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.134.1080.1080/17127015_461888530809061_893808691734642688_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -266,7 +265,7 @@ function initMap() {
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Home Cafe</h1>'+
       '<div id="bodyContent">'+
-      '<p>coffee</p>' +'<p>1222 Noriega St, San Francisco, CA 94122 Get directions</p>' +
+      '<p>1222 Noriega St, San Francisco, CA 94122</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19227360_488638778133842_840740677120688128_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -275,7 +274,7 @@ function initMap() {
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">CREAM</h1>'+
       '<div id="bodyContent">'+
-      '<p>Ice cream</p>' +'<p>440 University Ave, Palo Alto, CA 94301</p>' +
+      '<p>440 University Ave, Palo Alto, CA 94301</p>' +
 '<img id="myImage" src="https://s-media-cache-ak0.pinimg.com/736x/2e/07/e0/2e07e077a2880dc0b70b748f3b69b42c--tag-icecream.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -284,7 +283,7 @@ var contentString21 = '<div id="content">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Recess Italian Ice Desserts</h1>'+
       '<div id="bodyContent">'+
-      '<p>Ice cream</p>' +'<p>2390 Almaden Rd #30, San Jose, CA 95125</p>' +
+      '<p>2390 Almaden Rd #30, San Jose, CA 95125</p>' +
 '<img id="myImage" src="http://scontent.cdninstagram.com/t51.2885-15/s480x480/e35/14309952_1252133204829188_229705674307665920_n.jpg?ig_cache_key=MTM0NTI4MDIzNDk2NjEyMDI3MA%3D%3D.2" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -293,7 +292,7 @@ var contentString22 = '<div id="content">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Milk & Wood</h1>'+
       '<div id="bodyContent">'+
-      '<p>Ice cream</p>' +'<p>387 S 1st St, San Jose, CA 95113</p>' +
+      '<p>387 S 1st St, San Jose, CA 95113</p>' +
 '<img id="myImage" src="https://s3-media3.fl.yelpcdn.com/bphoto/Zder4UfQQYRVSIPAvm8A6A/o.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -302,7 +301,7 @@ var contentString23 = '<div id="content">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Tiger Tea and Juice</h1>'+
       '<div id="bodyContent">'+
-      '<p>Tea/Juice</p>' +'<p>1803 El Camino Real, Burlingame, CA 94010</p>' +
+      '<p>1803 El Camino Real, Burlingame, CA 94010</p>' +
 '<img id="myImage" src="http://scontent.cdninstagram.com/t51.2885-15/s480x480/e35/c0.66.865.865/14566533_669262203242475_6299509682155290624_n.jpg?ig_cache_key=MTM1NTk3NDA5NzA2MjYwODk2MQ%3D%3D.2.c" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -311,7 +310,7 @@ var contentString24 = '<div id="content">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">What8ver Express</h1>'+
       '<div id="bodyContent">'+
-      '<p>Tea/Juice</p>' +'<p>10118 Bandley Dr, Cupertino, CA 95014</p>' +
+      '<p>10118 Bandley Dr, Cupertino, CA 95014</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/15624076_888159971325055_2384082877961732096_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -320,7 +319,7 @@ var contentString25 = '<div id="content">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">T-Swirl Crepe</h1>'+
       '<div id="bodyContent">'+
-      '<p>Tea/Juice</p>' +'<p>19650 Stevens Creek Blvd, Cupertino, CA 95014</p>' +
+      '<p>19650 Stevens Creek Blvd, Cupertino, CA 95014</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/14540504_1756962184563338_7456767574722740224_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -329,7 +328,7 @@ var contentString26 = '<div id="content">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Van\'s Bakery</h1>'+
       '<div id="bodyContent">'+
-      '<p>Tea/Juice</p>' +'<p>1824 Tully Rd, San Jose, CA 95122</p>' +
+      '<p>1824 Tully Rd, San Jose, CA 95122</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/18380633_432541220443601_8602369398495248384_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -338,7 +337,7 @@ var contentString27 = '<div id="content">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Mints and Honey</h1>'+
       '<div id="bodyContent">'+
-      '<p>Tea/Juice</p>' +'<p>1524 El Camino Real, San Carlos, CA 94070</p>' +
+      '<p>1524 El Camino Real, San Carlos, CA 94070</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/17934503_1350134618409692_2980208455857471488_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -347,7 +346,7 @@ var contentString28 = '<div id="content">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Milk and Cookie Bar</h1>'+
       '<div id="bodyContent">'+
-      '<p>Tea/Juice</p>' +'<p>18911 Lake Chabot Rd, Castro Valley, CA 94546</p>' +
+      '<p>18911 Lake Chabot Rd, Castro Valley, CA 94546</p>' +
 '<img id="myImage" src="https://s3-media2.fl.yelpcdn.com/bphoto/rV6ZPGaO-xFrZTRurbZOIg/o.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -356,7 +355,7 @@ var contentString29 = '<div id="content">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Ice Monster</h1>'+
       '<div id="bodyContent">'+
-      '<p>Tea/Juice</p>' +'<p>2230 Oak Grove Rd, Walnut Creek, CA 94598</p>' +
+      '<p>2230 Oak Grove Rd, Walnut Creek, CA 94598</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20065285_270644576746741_4503598261570895872_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -365,7 +364,7 @@ var contentString30 = '<div id="content">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Nekter Juice Bar</h1>'+
       '<div id="bodyContent">'+
-      '<p>ice cream</p>' +'<p>5800 Nave Dr L, Novato, CA 94949</p>' +
+      '<p>5800 Nave Dr L, Novato, CA 94949</p>' +
 '<img id="myImage" src="https://s3-media2.fl.yelpcdn.com/bphoto/3brAGG8Aby4Pee9RsigMnQ/o.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -374,7 +373,7 @@ var contentString31 = '<div id="content">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Fresh Nation Desserts</h1>'+
       '<div id="bodyContent">'+
-      '<p>ice cream</p>' +'<p>30 E 3rd Ave, San Mateo, CA 94401</p>' +
+      '<p>30 E 3rd Ave, San Mateo, CA 94401</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19955026_1942736595941750_837778786068987904_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -383,7 +382,7 @@ var contentString32= '<div id="content">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Belly Good Cafe and Crepes</h1>'+
       '<div id="bodyContent">'+
-      '<p>ice cream</p>' +'<p>1737 Post St # 393, San Francisco, CA 94115</p>' +
+      '<p>1737 Post St # 393, San Francisco, CA 94115</p>' +
 '<img id="myImage" src="https://s3-media2.fl.yelpcdn.com/bphoto/Y0zr0ZvqZ2jAPHKfJWthlg/o.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -392,7 +391,7 @@ var contentString33 = '<div id="content">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Tea Lyfe</h1>'+
       '<div id="bodyContent">'+
-      '<p>Ice cream</p>' +'<p>989 Story Rd #8018, San Jose, CA 95122</p>' +
+      '<p>989 Story Rd #8018, San Jose, CA 95122</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.61.1080.1080/19932007_1869858899898485_5570621579898912768_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -401,7 +400,7 @@ var contentString34 = '<div id="content">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Pop Up Tea</h1>'+
       '<div id="bodyContent">'+
-      '<p>Ice cream</p>' +'<p>Blossom Valley, 185 Branham Ln #2, San Jose, CA 95136</p>' +
+      '<p>Blossom Valley, 185 Branham Ln #2, San Jose, CA 95136</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/18581308_251795411968141_8706209930912202752_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -410,7 +409,7 @@ var contentString35 = '<div id="content">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Icicles</h1>'+
       '<div id="bodyContent">'+
-      '<p>Ice cream</p>' +'<p>1275 Lincoln Ave #1, San Jose, CA 95125</p>' +
+      '<p>1275 Lincoln Ave #1, San Jose, CA 95125</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/14533466_1225608867511450_9159346074610040832_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -419,7 +418,7 @@ var contentString36 = '<div id="content">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Maven\’s Creamery</h1>'+
       '<div id="bodyContent">'+
-      '<p>Ice cream</p>' +'<p>1701 S 7th St suite 7, San Jose, CA 95112</p>' +
+      '<p>1701 S 7th St suite 7, San Jose, CA 95112</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18879016_300384090403691_9004563879988035584_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -428,7 +427,7 @@ var contentString37 = '<div id="content">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Honey Berry</h1>'+
       '<div id="bodyContent">'+
-      '<p>Ice cream</p>' +'<p>4848 San Felipe Rd #170, San Jose, CA 95135</p>' +
+      '<p>4848 San Felipe Rd #170, San Jose, CA 95135</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/18809190_1516883158364468_3133208711498039296_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -437,7 +436,7 @@ var contentString38 = '<div id="content">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">POP</h1>'+
       '<div id="bodyContent">'+
-      '<p>Tea/Juice</p>' +'<p>563 West Clover Road, (INSIDE STARBREAD BAKERY), Tracy, CA 95376</p>' +
+      '<p>563 West Clover Road, (INSIDE STARBREAD BAKERY), Tracy, CA 95376</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20214613_1896500573934595_733037341312024576_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -446,7 +445,7 @@ var contentString39 = '<div id="content">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Fantasia Coffee and Tea</h1>'+
       '<div id="bodyContent">'+
-      '<p>Tea/Juice</p>' +'<p>3969 Rivermark Pkwy, Santa Clara, CA 95054</p>' +
+      '<p>3969 Rivermark Pkwy, Santa Clara, CA 95054</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c106.0.867.867/18644928_154197151787236_5274291230434394112_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -455,7 +454,7 @@ var contentString40 = '<div id="content">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Tleaf Teapresso</h1>'+
       '<div id="bodyContent">'+
-      '<p>Tea/Juice</p>' +'<p>860 Blossom Hill Rd, San Jose, CA 95123</p>' +
+      '<p>860 Blossom Hill Rd, San Jose, CA 95123</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/11356568_1496060550707123_1924035905_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -464,7 +463,7 @@ var contentString41 = '<div id="content">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Milkbomb</h1>'+
       '<div id="bodyContent">'+
-      '<p>Tea/Juice</p>' +'<p>1717 17th St, San Francisco, CA 94103</p>' +
+      '<p>1717 17th St, San Francisco, CA 94103</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.134.1080.1080/20065301_705257312995919_2993917166832582656_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -473,7 +472,7 @@ var contentString42 = '<div id="content">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Creamistry</h1>'+
       '<div id="bodyContent">'+
-      '<p>Tea/Juice</p>' +'<p>164 University Ave, Palo Alto, CA 94301</p>' +
+      '<p>164 University Ave, Palo Alto, CA 94301</p>' +
 '<img id="myImage" src="https://s3-media2.fl.yelpcdn.com/bphoto/ZvfluyYcGTqUlBDnP_LfEg/o.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -482,7 +481,7 @@ var contentString43 = '<div id="content">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Plentea</h1>'+
       '<div id="bodyContent">'+
-      '<p>Tea/Juice</p>' +'<p>2430 Durant Ave, Berkeley, CA 94704</p>' +
+      '<p>2430 Durant Ave, Berkeley, CA 94704</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.100.1080.1080/19765258_1339423326178285_494332447798853632_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -491,7 +490,7 @@ var contentString44 = '<div id="content">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Teasociety</h1>'+
       '<div id="bodyContent">'+
-      '<p>Tea/Juice</p>' +'<p>1654 Capitol Expy, San Jose, CA 95121</p>' +
+      '<p>1654 Capitol Expy, San Jose, CA 95121</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19984218_1154662304665589_2681516020409040896_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -500,7 +499,7 @@ var contentString45 = '<div id="content">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Psycho Donuts</h1>'+
       '<div id="bodyContent">'+
-      '<p>Tea/Juice</p>' +'<p>2006 Winchester Blvd, Campbell, CA 95008</p>' +
+      '<p>2006 Winchester Blvd, Campbell, CA 95008</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.67.1080.1080/16465005_1325144177562700_6980028914991104000_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -509,7 +508,7 @@ var contentString46 = '<div id="content">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Frozen Cafe</h1>'+
       '<div id="bodyContent">'+
-      '<p>ice</p>' +'<p>2475 San Ramon Valley Blvd, San Ramon, CA 94583</p>' +
+      '<p>2475 San Ramon Valley Blvd, San Ramon, CA 94583</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/19624270_1875524602769477_6037699939058843648_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -518,7 +517,7 @@ var contentString47 = '<div id="content">'+
     '</div>'+
     '<h1 id="firstHeading" class="firstHeading">Meadowlark Dairy</h1>'+
     '<div id="bodyContent">'+
-    '<p>ice</p>' +'<p>57 Neal St, Pleasanton, CA 94566</p>' +
+    '<p>57 Neal St, Pleasanton, CA 94566</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20184922_135137213749949_8151381451409981440_n.jpg" height=150 width=150></img>' +
     '</div>'+
     '</div>';
@@ -527,7 +526,7 @@ var contentString48 = '<div id="content">'+
     '</div>'+
     '<h1 id="firstHeading" class="firstHeading">James and the Giant Cupcake</h1>'+
     '<div id="bodyContent">'+
-    '<p>ice</p>' +'<p>6326 San Pablo Ave, Oakland, CA 94608</p>' +
+    '<p>6326 San Pablo Ave, Oakland, CA 94608</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19380008_186704991861823_8124907225752797184_n.jpg" height=150 width=150></img>' +
     '</div>'+
     '</div>';
@@ -536,7 +535,7 @@ var contentString49 = '<div id="content">'+
     '</div>'+
     '<h1 id="firstHeading" class="firstHeading">iScream</h1>'+
     '<div id="bodyContent">'+
-    '<p>ice</p>' +'<p>1819 Solano Ave, Berkeley, CA 94707</p>' +
+    '<p>1819 Solano Ave, Berkeley, CA 94707</p>' +
 '<img id="myImage" src="https://s3-media4.fl.yelpcdn.com/bphoto/jAWQMFllFgAKJJw_ZssqaA/o.jpg" height=150 width=150></img>' +
     '</div>'+
     '</div>';
@@ -545,7 +544,7 @@ var contentString50= '<div id="content">'+
     '</div>'+
     '<h1 id="firstHeading" class="firstHeading">Pineapples</h1>'+
     '<div id="bodyContent">'+
-    '<p>ice</p>' +'<p>296 Ocean Ave, San Francisco, CA 94112</p>' +
+    '<p>296 Ocean Ave, San Francisco, CA 94112</p>' +
 '<img id="myImage" src="https://s3-media1.fl.yelpcdn.com/bphoto/TzLB2gSrsHeoBh0ozYrYJg/o.jpg" height=150 width=150></img>' +
     '</div>'+
     '</div>';
@@ -554,7 +553,7 @@ var contentString51= '<div id="content">'+
     '</div>'+
     '<h1 id="firstHeading" class="firstHeading">Ketsourine Macarons</h1>'+
     '<div id="bodyContent">'+
-    '<p>ice</p>' +'<p>500 Westlake Center, Daly City, CA 94015</p>' +
+    '<p>500 Westlake Center, Daly City, CA 94015</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20066021_309634149442315_9078505452840419328_n.jpg" height=150 width=150></img>' +
     '</div>'+
     '</div>';
@@ -563,7 +562,7 @@ var contentString52= '<div id="content">'+
     '</div>'+
     '<h1 id="firstHeading" class="firstHeading">Sift Dessert Bar</h1>'+
     '<div id="bodyContent">'+
-    '<p>ice</p>' +'<p>3816 Bel Aire Plaza, Napa, CA 94558</p>' +
+    '<p>3816 Bel Aire Plaza, Napa, CA 94558</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12912490_213523012351231_540185528_n.jpg" height=150 width=150></img>' +
     '</div>'+
     '</div>';
@@ -572,7 +571,7 @@ var contentString53= '<div id="content">'+
     '</div>'+
     '<h1 id="firstHeading" class="firstHeading">Acre Coffee</h1>'+
     '<div id="bodyContent">'+
-    '<p>ice</p>' +'<p>21 4th St, Petaluma, CA 94952</p>' +
+    '<p>21 4th St, Petaluma, CA 94952</p>' +
 '<img id="myImage" src="https://s3-media4.fl.yelpcdn.com/bphoto/Z0P1pbC3r6tFv-2ojc_zDA/o.jpg" height=150 width=150></img>' +
     '</div>'+
     '</div>';
@@ -581,7 +580,7 @@ var contentString54= '<div id="content">'+
     '</div>'+
     '<h1 id="firstHeading" class="firstHeading">Hannah Coffee and Sweets</h1>'+
     '<div id="bodyContent">'+
-    '<p>ice</p>' +'<p>754 The Alameda #80, San Jose, CA 95126</p>' +
+    '<p>754 The Alameda #80, San Jose, CA 95126</p>' +
 '<img id="myImage" src="https://s3-media3.fl.yelpcdn.com/bphoto/Xi0BnnVL-l8KtO1nCIjQTA/o.jpg" height=150 width=150></img>' +
     '</div>'+
     '</div>';
@@ -590,7 +589,7 @@ var contentString55= '<div id="content">'+
     '</div>'+
     '<h1 id="firstHeading" class="firstHeading">Garden Creamery</h1>'+
     '<div id="bodyContent">'+
-    '<p>ice</p>' +'<p>3566 20th St, San Francisco, CA 94110</p>' +
+    '<p>3566 20th St, San Francisco, CA 94110</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19436924_494746714197429_5841023512445190144_n.jpg" height=150 width=150></img>' +
     '</div>'+
     '</div>';
@@ -599,7 +598,7 @@ var contentString56 = '<div id="content">'+
     '</div>'+
     '<h1 id="firstHeading" class="firstHeading">Scoop Microcreamery</h1>'+
     '<div id="bodyContent">'+
-    '<p>Tea/Juice</p>' +'<p>203 University Ave, Palo Alto, CA 94301</p>' +
+    '<p>203 University Ave, Palo Alto, CA 94301</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/14624517_265635107210563_3119592621492666368_n.jpg" height=150 width=150></img>' +
     '</div>'+
     '</div>';
@@ -608,7 +607,7 @@ var contentString57 = '<div id="content">'+
     '</div>'+
     '<h1 id="firstHeading" class="firstHeading">Smitten</h1>'+
     '<div id="bodyContent">'+
-    '<p>Ice Cream</p>' +'<p>3545 Mt Diablo Blvd, Lafayette, CA 94549</p>' +
+    '<p>3545 Mt Diablo Blvd, Lafayette, CA 94549</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20065742_294091811062161_6887438151757856768_n.jpg" height=150 width=150></img>' +
     '</div>'+
     '</div>';
@@ -617,7 +616,7 @@ var contentString58 = '<div id="content">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Milk Tea Lab</h1>'+
       '<div id="bodyContent">'+
-      '<p>Tea/Juice</p>' +'<p>1972 Contra Costa Blvd, Pleasant Hill, CA 94523</p>' +
+      '<p>1972 Contra Costa Blvd, Pleasant Hill, CA 94523</p>' +
 '<img id="myImage" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2M1Q0lGml93Dk8yBQMZ9sqxesAuHs7cEKVuiK9Ad3pExCEoQ3" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -626,7 +625,7 @@ var contentString59 = '<div id="content">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Asha Tea House</h1>'+
       '<div id="bodyContent">'+
-      '<p>Tea/Juice</p>' +'<p>2086 University Ave, Berkeley, CA 94704</p>' +
+      '<p>2086 University Ave, Berkeley, CA 94704</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19050319_371955066540107_3738841014819880960_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -635,7 +634,7 @@ var contentString60 = '<div id="content">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">The Mix Creamery</h1>'+
       '<div id="bodyContent">'+
-      '<p>Ice Cream</p>' +'<p>6601 Dublin Blvd c, Dublin, CA 94568</p>' +
+      '<p>6601 Dublin Blvd c, Dublin, CA 94568</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18888854_449039358793134_5385467833280888832_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -644,7 +643,7 @@ var contentString61 = '<div id="content">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Freezing Point Creamery</h1>'+
       '<div id="bodyContent">'+
-      '<p>Ice Cream</p>' +'<p>349 7th St, Oakland, CA 94607</p>' +
+      '<p>349 7th St, Oakland, CA 94607</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.88.1080.1080/17662699_1887953671441867_4398840938319839232_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -653,7 +652,7 @@ var contentString62 = '<div id="content">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Amorino Gelato Al Naturale</h1>'+
       '<div id="bodyContent">'+
-      '<p>Ice Cream</p>' +'<p>3658 Livermore Outlets Dr, Livermore, CA 94551</p>' +
+      '<p>3658 Livermore Outlets Dr, Livermore, CA 94551</p>' +
 '<img id="myImage" src="https://s3-media1.fl.yelpcdn.com/bphoto/9619PaEhlmHv5MZ6nty4aA/o.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -662,7 +661,7 @@ var contentString63 = '<div id="content">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Java Point Cafe</h1>'+
       '<div id="bodyContent">'+
-      '<p>Coffee</p>' +'<p>366 1st St, Benicia, CA 94510</p>' +
+      '<p>366 1st St, Benicia, CA 94510</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/16231003_1891206534424084_303968562253398016_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -671,7 +670,7 @@ var contentString64 = '<div id="content">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Mr. Holmes Bakehouse</h1>'+
       '<div id="bodyContent">'+
-      '<p>Coffee</p>' +'<p>1042 Larkin St, San Francisco, CA 94109</p>' +
+      '<p>1042 Larkin St, San Francisco, CA 94109</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20226142_108030749860760_3029794682218479616_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -680,7 +679,7 @@ var contentString65 = '<div id="content">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Origins Juicery</h1>'+
       '<div id="bodyContent">'+
-      '<p>Juice</p>' +'<p>2070 Broadway, Redwood City, CA 94063</p>' +
+      '<p>2070 Broadway, Redwood City, CA 94063</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/11850032_1636684409913459_591692297_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -689,7 +688,7 @@ var contentString66 = '<div id="content">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Tin Pot Creamery</h1>'+
       '<div id="bodyContent">'+
-      '<p>Juice</p>' +'<p>201 1st St, Los Altos, CA 94022</p>' +
+      '<p>201 1st St, Los Altos, CA 94022</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20066533_787610331401636_4317963525860360192_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -698,7 +697,7 @@ var contentString67 = '<div id="content">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Sno Crave Tea House</h1>'+
       '<div id="bodyContent">'+
-      '<p>Juice</p>' +'<p>1788 Decoto Rd, Union City, CA 94587</p>' +
+      '<p>1788 Decoto Rd, Union City, CA 94587</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/16123459_1354215524630500_860204919150346240_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -707,7 +706,7 @@ var contentString68 = '<div id="content">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Powder Shaved Snow</h1>'+
       '<div id="bodyContent">'+
-      '<p>Juice</p>' +'<p>260 Divisadero St, San Francisco, CA 94117</p>' +
+      '<p>260 Divisadero St, San Francisco, CA 94117</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.117.937.937/18723020_132255027343463_2903865755768455168_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -716,7 +715,7 @@ var contentString69 = '<div id="content">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Aqua Club Dessert Cafe</h1>'+
       '<div id="bodyContent">'+
-      '<p>Juice</p>' +'<p>440 San Mateo Ave, San Bruno, CA 94066</p>' +
+      '<p>440 San Mateo Ave, San Bruno, CA 94066</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/19380144_307008056409935_145598042714669056_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -725,7 +724,7 @@ var contentString70 = '<div id="content">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Philz Coffee</h1>'+
       '<div id="bodyContent">'+
-      '<p>Juice</p>' +'<p>101 Forest Ave, Palo Alto, CA 94301</p>' +
+      '<p>101 Forest Ave, Palo Alto, CA 94301</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20067406_483124218688418_455364428565577728_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
@@ -734,7 +733,7 @@ var contentString71 = '<div id="content">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Dutch Coffee Bros</h1>'+
       '<div id="bodyContent">'+
-      '<p>Juice</p>' +'<p>1665 Pacific Ave, Stockton, CA 95204</p>' +
+      '<p>1665 Pacific Ave, Stockton, CA 95204</p>' +
 '<img id="myImage" src="https://s3-media4.fl.yelpcdn.com/bphoto/VrP4BTocH-f1U4OyGSR9fA/348s.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
