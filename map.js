@@ -113,7 +113,7 @@ var contentString2 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading"><a href="pekoe.html">Pekoe</a></h1>'+
       '<div id="bodyContent">'+
       '<p>3276 S White Rd, San Jose, CA 95148</p>' +
-'<img id="myImage" src="https://s3-media2.fl.yelpcdn.com/bphoto/vaZcTlmFJLKUnMA_ktvTrw/o.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://pbs.twimg.com/media/DCuGftvV0AAo9ai.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
  var contentString3 = '<div id="content">'+
@@ -137,7 +137,7 @@ var contentString2 = '<div id="content">'+
   var contentString5 = '<div id="content">'+
       '<div id="siteNotice">'+
       '</div>'+
-      '<h1 id="firstHeading" class="firstHeading">The Baked Bear of Fishermans Wharf</h1>'+
+      '<h1 id="firstHeading" class="firstHeading">The Baked Bear</h1>'+
       '<div id="bodyContent">'+
       '<p>2824 Jones St, San Francisco, CA 94133</p>' +
 '<img id="myImage" src="https://s3-media4.fl.yelpcdn.com/bphoto/8fqqN6L3cNT3IswDbWKm4A/o.jpg" height=150 width=150></img>' +
@@ -158,7 +158,7 @@ var contentString2 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Uji Time</h1>'+
       '<div id="bodyContent">'+
       '<p>2575 Telegraph Ave, Berkeley, CA 94704</p>' +
-'<img id="myImage" src="https://s3-media1.fl.yelpcdn.com/bphoto/92RgfLHRABBCNxBsBoGg0w/ls.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.134.1080.1080/16464971_1882472122028267_2503303963143569408_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
  var contentString8 = '<div id="content">'+
@@ -245,7 +245,7 @@ var contentString2 = '<div id="content">'+
   var contentString17 = '<div id="content">'+
       '<div id="siteNotice">'+
       '</div>'+
-      '<h1 id="firstHeading" class="firstHeading">Tequation Cafe</h1>'+
+      '<h1 id="firstHeading" class="firstHeading">Teaquation Cafe</h1>'+
       '<div id="bodyContent">'+
       '<p>1036 El Camino Real, Redwood City, CA 94063</p>' +
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.18.1080.1080/16230978_368042460242730_3187793674201202688_n.jpg" height=150 width=150></img>' +
@@ -281,10 +281,10 @@ var contentString2 = '<div id="content">'+
 var contentString21 = '<div id="content">'+
       '<div id="siteNotice">'+
       '</div>'+
-      '<h1 id="firstHeading" class="firstHeading">Recess Italian Ice Desserts</h1>'+
+      '<h1 id="firstHeading" class="firstHeading">Recess Italian Ice and Desserts</h1>'+
       '<div id="bodyContent">'+
       '<p>2390 Almaden Rd #30, San Jose, CA 95125</p>' +
-'<img id="myImage" src="http://scontent.cdninstagram.com/t51.2885-15/s480x480/e35/14309952_1252133204829188_229705674307665920_n.jpg?ig_cache_key=MTM0NTI4MDIzNDk2NjEyMDI3MA%3D%3D.2" height=150 width=150></img>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.62.859.859/18382535_228706114280714_651087892130562048_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
 var contentString22 = '<div id="content">'+
@@ -940,7 +940,7 @@ var contentString71 = '<div id="content">'+
   infowindows.push(infowindow32);
   markers.push(marker32);
 
-  var marker33 = tealyfe.getMarker(map,'Tealyfe');
+  var marker33 = tealyfe.getMarker(map,'Tea Lyfe');
   infowindows.push(infowindow33);
   markers.push(marker33);
 
@@ -956,7 +956,7 @@ var contentString71 = '<div id="content">'+
   infowindows.push(infowindow36);
   markers.push(marker36);
 
-  var marker37 = honeyberry.getMarker(map,'Milk and Wood');
+  var marker37 = honeyberry.getMarker(map,'Honey Berry');
   infowindows.push(infowindow37);
   markers.push(marker37);
 
