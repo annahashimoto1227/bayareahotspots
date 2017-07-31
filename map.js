@@ -964,7 +964,7 @@ var contentString71 = '<div id="content">'+
   infowindows.push(infowindow38);
   markers.push(marker38);
 
-  var marker39 = fantasia.getMarker(map,'What8ever Express');
+  var marker39 = fantasia.getMarker(map,'Fantasia');
   infowindows.push(infowindow39);
   markers.push(marker39);
 
