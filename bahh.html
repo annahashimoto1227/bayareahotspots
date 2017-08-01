@@ -6,7 +6,16 @@
 
 <link href="https://fonts.googleapis.com/css?family=Yeseva+One" rel="stylesheet">
 <style>
+
+.right {
+    position: absolute;
+    right: -150px;
+    width: 300px;
+    padding: 5px;
+}
+
 body {margin:0;}
+
 .topnav {
   overflow: hidden;
   background-color: #FFC0CB; <!--color of the menu bar->
@@ -50,17 +59,19 @@ body {margin:0;}
     text-align: left;
   }
 }
-
 h1 {
 	font-family: 'Yeseva One', cursive;
 }
-
 p {
 	font-family: 'Josefin Sans'; sans-serif;
 }
 </style>
 </head>
 <body>
+
+<div class="right">
+  <img id="myImage" src="https://mail.google.com/mail/u/0/?ui=2&ik=4e5742cd61&view=att&th=15d9ea677219ef7f&attid=0.1&disp=safe&realattid=f_j5tt0n9f0&zw" height=150 width=150></img>
+</div>
 
 <div class="topnav" id="myTopnav">
   <a href="bahh.html">Home</a>
@@ -72,6 +83,7 @@ p {
 </div>
 
 <div style="padding-left:16px">
+
 </div>
 
 <script>
@@ -83,31 +95,20 @@ function myFunction() {
         x.className = "topnav";
     }
 }
-
-
 </script>
     <title>Bay Eats</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-
-
 .mySlides {display:none}
-
-
 /* Slideshow container */
 .slideshow-container {
-
-
     /* Full height */
-    height: 90%; 
-
+    height: 100%; 
     /* Center and scale the image nicely */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-
 }
-
 /* Caption text */
 .text {
   color: black;
@@ -118,7 +119,6 @@ function myFunction() {
   width: 100%;
   text-align: absolute;
 }
-
 /* Number text (1/3 etc) */
 .numbertext {
   color: black;
@@ -127,7 +127,6 @@ function myFunction() {
   position: absolute;
   top: 0;
 }
-
 /* The dots/bullets/indicators */
 .dot {
   height: 13px;
@@ -138,11 +137,9 @@ function myFunction() {
   display: inline-block;
   transition: background-color 0.6s ease;
 }
-
 .active {
   background-color: #717171;
 }
-
 /* Fading animation */
 .fade {
   -webkit-animation-name: fade;
@@ -150,17 +147,14 @@ function myFunction() {
   animation-name: fade;
   animation-duration: 1.5s;
 }
-
 @-webkit-keyframes fade {
   from {opacity: .4} 
   to {opacity: 1}
 }
-
 @keyframes fade {
   from {opacity: .4} 
   to {opacity: 1}
 }
-
 /* On smaller screens, decrease text size */
 @media only screen and (max-width: 300px) {
   .text {font-size: 11px}
@@ -203,7 +197,6 @@ function myFunction() {
 <script>
 var slideIndex = 0;
 showSlides();
-
 function showSlides() {
     var i;
     var slides = document.getElementsByClassName("mySlides");
