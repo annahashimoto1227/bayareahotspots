@@ -11,8 +11,18 @@
 h1 {
     font-family: 'Yeseva One';font-size: 36px;
 }
+.right {
+    position: absolute;
+    right: -150px;
+    width: 300px;
+    padding: 5px;
+    z-index: 999;
+    margin-right:27px;
+}
 </style>
 <link href='https://fonts.googleapis.com/css?family=Josefin+Sans' rel='stylesheet'>
+
+
 <style>
 
 
@@ -28,6 +38,9 @@ border: 1px solid #89D0D1;
 </style>
 </head>
 <body>
+<div class="right">
+  <img id="myImage" src="circles.png" width=55%></img>
+</div>
 <div class="w3-container">
   <h1>Boba Guys</h1>
   <hr>
@@ -39,7 +52,7 @@ Locations:<br>
 
 <div class="w3-row-padding">
   <div class="w3-container w3-third">
-    <img src="bobaguys.jpg" style="width:100%;cursor:pointer" 
+    <img src="bobaguys.jpg" style="width:100%;cursor:pointer"
     onclick="onClick(this)" class="w3-hover-opacity">
   </div>
 
@@ -56,6 +69,6 @@ function onClick(element) {
   document.getElementById("modal01").style.display = "block";
 }
 </script>
-            
+
 </body>
 </html>
