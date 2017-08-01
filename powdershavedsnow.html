@@ -7,7 +7,7 @@
 
 <link href='https://fonts.googleapis.com/css?family=Yeseva+One' rel='stylesheet'>
 <style>
-h1 {
+h2 {
     font-family: 'Yeseva One';font-size: 36px;
 }
 </style>
@@ -19,7 +19,7 @@ body {
 </style>
 </head>
 <body>
-
+    
 <div class="w3-container">
   <h1>Powder Shaved Snow</h1>
   <p1>
@@ -34,14 +34,23 @@ Location:<br>
       onclick="onClick(this)" class="w3-hover-opacity">
     </div>
 
-  </div>
-  </div>
-  <script>
-  function onClick(element) {
-    document.getElementById("img01").src = element.src;
-    document.getElementById("modal01").style.display = "block";
-  }
-  </script>
+</div>
 
+<div id="modal01" class="w3-modal" onclick="this.style.display='none'">
+  <span class="w3-button w3-hover-red w3-xlarge w3-display-topright">&times;</span>
+  <div class="w3-modal-content w3-animate-zoom">
+    <img id="img01" style="width:100%">
+  </div>
+</div>
+
+<script>
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+}
+</script>
+            
 </body>
 </html>
+
+
