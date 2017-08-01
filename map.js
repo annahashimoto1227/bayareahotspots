@@ -96,7 +96,7 @@ function initMap() {
   var dutchbros = new loc(37.968800, -121.298945);
   var map = new google.maps.Map(document.getElementById('map'), {
     zoom: 9,
-    center: tpumps.getDict()
+    center: frozencafe.getDict()
   });
 
   var contentString = '<div id="content">'+
