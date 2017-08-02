@@ -117,6 +117,10 @@ function initMap() {
   var gongcha7 = new loc(37.566825, -122.324030);
   var gongcha8 = new loc(37.333744, -121.884814);
   var gongcha9 = new loc(37.339704, -122.042642);
+  var vampirepenguin2 = new loc(37.863887, -122.258307);
+  var nekter2 = new loc(37.898927, -122.515049);
+  var nekter3 = new loc(37.368159, -122.035647);
+  var nekter4 = new loc(37.401494, -122.113087);
   var map = new google.maps.Map(document.getElementById('map'), {
     zoom: 9,
     center: frozencafe.getDict()
@@ -967,6 +971,42 @@ var contentString71 = '<div id="content">'+
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12940861_1158886404142324_818743344_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
+  var contentString95 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Vampire Penguin</h1>'+
+      '<div id="bodyContent">'+
+      '<p>2575 Telegraph Ave, Berkeley, CA 94704</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.63.1080.1080/18949994_685534984971465_8655991558379667456_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString96 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Nekter Juice Bar</h1>'+
+      '<div id="bodyContent">'+
+      '<p>800 Redwood Highway Frontage Rd #114, Mill Valley, CA 94941</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19379973_129813297602403_2563412704760954880_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString97 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Nekter Juice Bar</h1>'+
+      '<div id="bodyContent">'+
+      '<p>304 W El Camino Real, Sunnyvale, CA 94087</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/19228854_1774766902833978_5206415753426763776_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString98 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Nekter Juice Bar</h1>'+
+      '<div id="bodyContent">'+
+      '<p>685 San Antonio Rd #15, Mountain View, CA 94040</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19051807_307313496358481_6563823189321842688_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
 
 //INFOWINDOWS
   var infowindow = tpumps.getInfoWindow(contentString);
@@ -1063,6 +1103,10 @@ var contentString71 = '<div id="content">'+
   var infowindow92 = gongcha7.getInfoWindow(contentString92);
   var infowindow93 = gongcha8.getInfoWindow(contentString93);
   var infowindow94 = gongcha9.getInfoWindow(contentString94);
+  var infowindow95 = vampirepenguin2.getInfoWindow(contentString95);
+  var infowindow96 = nekter2.getInfoWindow(contentString96);
+  var infowindow97 = nekter3.getInfoWindow(contentString97);
+  var infowindow98 = nekter4.getInfoWindow(contentString98);
 
 //MARKERS
   var marker = tpumps.getMarker(map,'T-Pumps');
@@ -1149,15 +1193,15 @@ var contentString71 = '<div id="content">'+
   infowindows.push(infowindow21);
   markers.push(marker21);
 
-	var marker22 = milknwood.getMarker(map,'Milk and Wood');
+  var marker22 = milknwood.getMarker(map,'Milk and Wood');
   infowindows.push(infowindow22);
   markers.push(marker22);
 
-	var marker23 = tiger.getMarker(map,'Tiger Tea and Juice');
+  var marker23 = tiger.getMarker(map,'Tiger Tea and Juice');
   infowindows.push(infowindow23);
   markers.push(marker23);
 
-	var marker24 = whatever.getMarker(map,'What8ever Express');
+ var marker24 = whatever.getMarker(map,'What8ever Express');
   infowindows.push(infowindow24);
   markers.push(marker24);
 
@@ -1189,7 +1233,7 @@ var contentString71 = '<div id="content">'+
   infowindows.push(infowindow31);
   markers.push(marker31);
 
-	var marker32 = bellygood.getMarker(map,'Belly Good Cafe and Crepes');
+  var marker32 = bellygood.getMarker(map,'Belly Good Cafe and Crepes');
   infowindows.push(infowindow32);
   markers.push(marker32);
 
@@ -1440,6 +1484,22 @@ var contentString71 = '<div id="content">'+
   var marker94 = gongcha9.getMarker(map,'Gong Cha');
   infowindows.push(infowindow94);
   markers.push(marker94);
+	
+  var marker95 = vampirepenguin2.getMarker(map,'Vampire Penguin');
+  infowindows.push(infowindow95);
+  markers.push(marker95);
+  
+  var marker96 = nekter2.getMarker(map,'Nekter Juice Bar');
+  infowindows.push(infowindow96);
+  markers.push(marker96);
+  
+  var marker97 = nekter3.getMarker(map,'Nekter Juice Bar');
+  infowindows.push(infowindow97);
+  markers.push(marker97);
+  
+  var marker98 = nekter4.getMarker(map,'Nekter Juice Bar');
+  infowindows.push(infowindow98);
+  markers.push(marker98);
 
 
   marker.addListener('click',function() {
@@ -1726,5 +1786,17 @@ var contentString71 = '<div id="content">'+
   });
   marker94.addListener('click',function() {
     infowindow94.open(map,marker94);
+  });
+  marker95.addListener('click',function() {
+    infowindow95.open(map,marker95);
+  });
+  marker96.addListener('click',function() {
+    infowindow96.open(map,marker96);
+  });
+  marker97.addListener('click',function() {
+    infowindow97.open(map,marker97);
+  });
+  marker98.addListener('click',function() {
+    infowindow98.open(map,marker98);
   });
 }
