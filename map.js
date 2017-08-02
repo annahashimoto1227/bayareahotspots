@@ -121,6 +121,27 @@ function initMap() {
   var nekter2 = new loc(37.898927, -122.515049);
   var nekter3 = new loc(37.368159, -122.035647);
   var nekter4 = new loc(37.401494, -122.113087);
+  var teasociety2 = new loc(37.433949, -121.901766);
+  var sift2 = new loc(38.441439, -122.714509);
+  var sift3 = new loc(37.788769, -122.434080);
+  var sift4 = new loc(38.333152, -122.711640);
+  var sift5 = new loc(38.243734, -122.625817);
+  var milkcow2 = new loc(37.637097, -122.417347);
+  var plentea2 = new loc(37.791376, -122.404401);
+  var smitten2 = new loc(37.776368, -122.424191);
+  var smitten3 = new loc(37.320679, -121.949103);
+  var smitten4 = new loc(37.789134, -122.434251);
+  var uji2 = new loc(37.785275, -122.429044);
+  var asha2 = new loc(37.788183, -122.403696);
+  var fantasia2 = new loc(37.319532, -121.947574);
+  var fantasia3 = new loc(37.336013, -122.015713);
+  var fantasia4 = new loc(37.420691, -121.916648);
+  var snocrave2 = new loc(37.455918, -121.911838);
+  var snocrave3 = new loc(37.500004, -121.973505);
+  var psycho2 = new loc(37.332284, -121.885973); 
+  var psycho3 = new loc(37.351737, -121.959806); 
+  var tinpot2 = new loc(37.438674, -122.158951); 
+  var tinpot3 = new loc(37.288374, -121.933138); 
   var map = new google.maps.Map(document.getElementById('map'), {
     zoom: 9,
     center: frozencafe.getDict()
@@ -1007,6 +1028,195 @@ var contentString71 = '<div id="content">'+
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19051807_307313496358481_6563823189321842688_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
+  var contentString99 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Teasociety</h1>'+
+      '<div id="bodyContent">'+
+      '<p>55 N Milpitas Blvd, Milpitas, CA 95035</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/17596033_391951604524714_8862121113522536448_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString100 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Sift Dessert Bar</h1>'+
+      '<div id="bodyContent">'+
+      '<p>404 Mendocino Ave A, Santa Rosa, CA 95401</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/17265990_100852657117111_2457753137730027520_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString101 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Sift Dessert Bar</h1>'+
+      '<div id="bodyContent">'+
+      '<p>2411 California St, San Francisco, CA 94115</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.1.1080.1080/19623640_1986763971556591_4910688537629687808_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString102 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Sift Dessert Bar</h1>'+
+      '<div id="bodyContent">'+
+      '<p>7582 Commerce Blvd, Cotati, CA 94931</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18253138_1764238247130141_9199965903905619968_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString103 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Sift Dessert Bar</h1>'+
+      '<div id="bodyContent">'+
+      '<p>401 Kenilworth Dr #920, Petaluma, CA 94952</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19052077_1917042755242023_5280419607599906816_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString104 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Milkcow</h1>'+
+      '<div id="bodyContent">'+
+      '<p>1150 El Camino Real, Shop 223, San Bruno, CA 94066</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19379451_463278797373044_8130668331674894336_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString105 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Plentea</h1>'+
+      '<div id="bodyContent">'+
+      '<p>341 Kearny St, San Francisco, CA 94108</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c135.0.809.809/20184219_1872127439775146_7256756737363935232_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString106 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Smitten</h1>'+
+      '<div id="bodyContent">'+
+      '<p>432 Octavia St #1A, San Francisco, CA 94102</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.134.1080.1080/20398872_2329267817298357_8003035806446911488_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+   var contentString107 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Smitten</h1>'+
+      '<div id="bodyContent">'+
+      '<p>3055 Olin Ave #1055, San Jose, CA 95128</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20398129_451901071856853_8096227766317350912_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString108 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Smitten</h1>'+
+      '<div id="bodyContent">'+
+      '<p>2404 California St, San Francisco, CA 94115</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.134.1080.1080/20398872_2329267817298357_8003035806446911488_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString109 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Uji Time</h1>'+
+      '<div id="bodyContent">'+
+      '<p>22 Peace Plz #440, San Francisco, CA 94115</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c53.0.973.973/20398097_1421525167928107_2700071185365860352_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString110 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Asha Tea House</h1>'+
+      '<div id="bodyContent">'+
+      '<p>17 Kearny St, San Francisco, CA 94108</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20065972_1983390435280650_3362251766841212928_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString111 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Fantasia</h1>'+
+      '<div id="bodyContent">'+
+      '<p>378 Santana Row, San Jose, CA 95128</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.7.1080.1080/19436367_680764458773828_3694869839723102208_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString112 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Fantasia</h1>'+
+      '<div id="bodyContent">'+
+      '<p>10933 N Wolfe Rd, Cupertino, CA 95014</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18579647_412081942511721_8726373956258365440_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString113 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Fantasia</h1>'+
+      '<div id="bodyContent">'+
+      '<p>528 Barber Ln, Milpitas, CA 95035</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20478777_1920699544626590_8253277875470336_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString114 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Sno Crave Tea House</h1>'+
+      '<div id="bodyContent">'+
+      '<p>1777 N Milpitas Blvd, Milpitas, CA 95035</p>' +
+'<img id="myImage" src="https://s3-media1.fl.yelpcdn.com/bphoto/TYLnnU8D4bSPxHEAGXPSDw/258s.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString115 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Sno Crave Tea House</h1>'+
+      '<div id="bodyContent">'+
+      '<p>43773 Boscell Rd, Fremont, CA 94538</p>' +
+'<img id="myImage" src="https://s3-media4.fl.yelpcdn.com/bphoto/7qRpSSed2wUmXJdFvug26Q/180s.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString116 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Psycho Donuts</h1>'+
+      '<div id="bodyContent">'+
+      '<p>288 S 2nd St, San Jose, CA 95113</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.103.887.887/20394109_1922002128079828_264777836080922624_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString117 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Psycho Donuts</h1>'+
+      '<div id="bodyContent">'+
+      '<p>2000 El Camino Real #11, Santa Clara, CA 95050</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20582866_1438503109576639_2884405881720537088_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString118 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Tin Pot Creamery</h1>'+
+      '<div id="bodyContent">'+
+      '<p>855 El Camino Real #121, Palo Alto, CA 94301</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/20180669_503990223277417_280853177115344896_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString119 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Tin Pot Creamery</h1>'+
+      '<div id="bodyContent">'+
+      '<p>1875 S Bascom Ave #370, Campbell, CA 95008</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18809554_1336308053073767_5110977675984371712_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
 
 //INFOWINDOWS
   var infowindow = tpumps.getInfoWindow(contentString);
@@ -1107,6 +1317,27 @@ var contentString71 = '<div id="content">'+
   var infowindow96 = nekter2.getInfoWindow(contentString96);
   var infowindow97 = nekter3.getInfoWindow(contentString97);
   var infowindow98 = nekter4.getInfoWindow(contentString98);
+  var infowindow99 = teasociety2.getInfoWindow(contentString99);
+  var infowindow100 = sift2.getInfoWindow(contentString100);
+  var infowindow101 = sift3.getInfoWindow(contentString101);
+  var infowindow102 = sift4.getInfoWindow(contentString102);
+  var infowindow103 = sift5.getInfoWindow(contentString103);
+  var infowindow104 = milkcow2.getInfoWindow(contentString104);
+  var infowindow105 = plentea2.getInfoWindow(contentString105);
+  var infowindow106 = smitten2.getInfoWindow(contentString106);
+  var infowindow107 = smitten3.getInfoWindow(contentString107);
+  var infowindow108 = smitten4.getInfoWindow(contentString108);
+  var infowindow109 = uji2.getInfoWindow(contentString109);
+  var infowindow110 = asha2.getInfoWindow(contentString110);
+  var infowindow111 = fantasia2.getInfoWindow(contentString111);
+  var infowindow112 = fantasia3.getInfoWindow(contentString112);
+  var infowindow113 = fantasia4.getInfoWindow(contentString113);
+  var infowindow114 = snocrave2.getInfoWindow(contentString114);
+  var infowindow115 = snocrave3.getInfoWindow(contentString115);
+  var infowindow116 = psycho2.getInfoWindow(contentString116);
+  var infowindow117 = psycho3.getInfoWindow(contentString117);
+  var infowindow118 = tinpot2.getInfoWindow(contentString118);
+  var infowindow119 = tinpot3.getInfoWindow(contentString119);
 
 //MARKERS
   var marker = tpumps.getMarker(map,'T-Pumps');
@@ -1500,6 +1731,90 @@ var contentString71 = '<div id="content">'+
   var marker98 = nekter4.getMarker(map,'Nekter Juice Bar');
   infowindows.push(infowindow98);
   markers.push(marker98);
+	
+  var marker99 = teasociety2.getMarker(map,'Teasociety');
+  infowindows.push(infowindow99);
+  markers.push(marker99);
+  
+  var marker100 = sift2.getMarker(map,'Sift Dessert Bar');
+  infowindows.push(infowindow100);
+  markers.push(marker100);
+  
+  var marker101 = sift3.getMarker(map,'Sift Dessert Bar');
+  infowindows.push(infowindow101);
+  markers.push(marker101);
+  
+  var marker102 = sift4.getMarker(map,'Sift Dessert Bar');
+  infowindows.push(infowindow102);
+  markers.push(marker102);
+  
+  var marker103 = sift5.getMarker(map,'Sift Dessert Bar');
+  infowindows.push(infowindow103);
+  markers.push(marker103);
+  
+  var marker104 = milkcow2.getMarker(map,'Milkcow');
+  infowindows.push(infowindow104);
+  markers.push(marker104);
+  
+  var marker105 = plentea2.getMarker(map,'Plentea');
+  infowindows.push(infowindow105);
+  markers.push(marker105);
+  
+  var marker106 = smitten2.getMarker(map,'Smitten');
+  infowindows.push(infowindow106);
+  markers.push(marker106);
+  
+  var marker107 = smitten3.getMarker(map,'Smitten');
+  infowindows.push(infowindow107);
+  markers.push(marker107);
+  
+  var marker108 = smitten4.getMarker(map,'Smitten');
+  infowindows.push(infowindow108);
+  markers.push(marker108);
+  
+  var marker109 = uji2.getMarker(map,'Uji Time');
+  infowindows.push(infowindow109);
+  markers.push(marker109);
+  
+  var marker110 = asha2.getMarker(map,'Asha Tea House');
+  infowindows.push(infowindow110);
+  markers.push(marker110);
+  
+  var marker111 = fantasia2.getMarker(map,'Fantasia');
+  infowindows.push(infowindow111);
+  markers.push(marker111);
+  
+  var marker112 = fantasia3.getMarker(map,'Fantasia');
+  infowindows.push(infowindow112);
+  markers.push(marker112);
+  
+  var marker113 = fantasia4.getMarker(map,'Fantasia');
+  infowindows.push(infowindow113);
+  markers.push(marker113);
+  
+  var marker114 = snocrave2.getMarker(map,'Sno Crave Tea House');
+  infowindows.push(infowindow114);
+  markers.push(marker114);
+  
+  var marker115 = snocrave3.getMarker(map,'Sno Crave Tea House');
+  infowindows.push(infowindow115);
+  markers.push(marker115);
+  
+  var marker116 = psycho2.getMarker(map,'Psycho Donuts');
+  infowindows.push(infowindow116);
+  markers.push(marker116);
+  
+  var marker117 = psycho3.getMarker(map,'Psycho Donuts');
+  infowindows.push(infowindow117);
+  markers.push(marker117);
+  
+  var marker118 = tinpot2.getMarker(map,'Tin Pot Creamery');
+  infowindows.push(infowindow118);
+  markers.push(marker118);
+  
+  var marker119 = tinpot3.getMarker(map,'Tin Pot Creamery');
+  infowindows.push(infowindow119);
+  markers.push(marker119);
 
 
   marker.addListener('click',function() {
@@ -1798,5 +2113,68 @@ var contentString71 = '<div id="content">'+
   });
   marker98.addListener('click',function() {
     infowindow98.open(map,marker98);
+  });
+  marker99.addListener('click',function() {
+  	infowindow99.open(map,marker99);
+  });
+  marker100.addListener('click',function() {
+  	infowindow100.open(map,marker100);
+  });
+  marker101.addListener('click',function() {
+  	infowindow101.open(map,marker101);
+  });
+  marker102.addListener('click',function() {
+  	infowindow102.open(map,marker102);
+  });
+  marker103.addListener('click',function() {
+  	infowindow103.open(map,marker103);
+  });
+  marker104.addListener('click',function() {
+  	infowindow104.open(map,marker104);
+  });
+  marker105.addListener('click',function() {
+  	infowindow105.open(map,marker105);
+  });
+  marker106.addListener('click',function() {
+  	infowindow106.open(map,marker106);
+  });
+  marker107.addListener('click',function() {
+  	infowindow107.open(map,marker107);
+  });
+	marker108.addListener('click',function() {
+  	infowindow108.open(map,marker108);
+  });
+  marker109.addListener('click',function() {
+  	infowindow109.open(map,marker109);
+  });
+  marker110.addListener('click',function() {
+  	infowindow110.open(map,marker110);
+  });
+  marker111.addListener('click',function() {
+  	infowindow111.open(map,marker111);
+  });
+  marker112.addListener('click',function() {
+  	infowindow112.open(map,marker112);
+  });
+  marker113.addListener('click',function() {
+  	infowindow113.open(map,marker113);
+  });
+  marker114.addListener('click',function() {
+  	infowindow114.open(map,marker114);
+  });
+  marker115.addListener('click',function() {
+  	infowindow115.open(map,marker115);
+  });
+  marker116.addListener('click',function() {
+  	infowindow116.open(map,marker116);
+  });
+  marker117.addListener('click',function() {
+  	infowindow117.open(map,marker117);
+  });
+  marker118.addListener('click',function() {
+  	infowindow118.open(map,marker118);
+  });
+  marker119.addListener('click',function() {
+  	infowindow119.open(map,marker119);
   });
 }
