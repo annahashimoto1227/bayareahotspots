@@ -19,7 +19,9 @@ right: 10px;
 z-index: 999;
 margin-top: .25cm;
 }
-body {margin:0;}
+body {
+margin:0;
+}
 .topnav {
   overflow: hidden;
   background-color: #FFC0CB; <!--color of the menu bar->
@@ -36,7 +38,7 @@ body {margin:0;}
   font-weight:bold;
 }
 .topnav a:hover {
-  background-color: #FC3E5A; <!--hover color on menu bar-->
+  background-color: #FC3E5A; 
   color: black;
 }
 .topnav .icon {
@@ -71,7 +73,7 @@ body {margin:0;}
   <a href="bahh.html">Home</a>
   <a href="map.html">Map</a>
   <a href="#Searchbar">Search</a>
-  <a href="contacts.html">About Us</a>
+  <a href="contacts.html">About</a>
   <a href ="credits.html">Credits</a>
   <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
 </div>
@@ -140,6 +142,10 @@ function myFunction() {
 }
 .dropdown a:hover {background-color: #89D0D1}
 .show {display:block;}
+.searchp{
+margin-left:30px
+}
+
 </style>
 
 </head>
@@ -147,7 +153,8 @@ function myFunction() {
 <body>
 
 <h2>Search Bar</h2>
-<p>Open the dropdown menu to search.</p>
+
+<p class="searchp">Open the dropdown menu to search. Click on a location to find out more.</p>
 
 <div class="dropdown">
 <button onclick="myFunction()" class="dropbtn">Search . .</button>
@@ -227,7 +234,7 @@ function myFunction() {
 	<a href="honeycreme.html"><strong>Honey Creme</strong><br>839 Irving St. San Francisco, CA 94122</a>
 	<a href="milkandcookiebar.html"><strong>Milk and Cookie Bar</strong><br>18911 Lake Chabot Rd, Castro Valley, CA 94546</a>
 	<a href="mintsandhoney.html"><strong>Mints & Honey</strong><br>1524 El Camino Real, San Carlos, CA 94070</a>
-	<a href="honey_berry.html"><strong>Honey Berry</strong>4848 San Felipe Rd. San Jose, CA 95135</a>	 
+				 
 				 </div>
 </div>
 
@@ -435,7 +442,7 @@ text-indent:30px;
 font-family: 'Yeseva One', cursive;
 }
 p {
-text-indent:30px;
+
 	font-family: 'Josefin Sans'; sans-serif;
 }
 a{
