@@ -94,6 +94,29 @@ function initMap() {
   var aqua = new loc(37.622605, -122.411114);
   var philz = new loc(37.442145, -122.161526);
   var dutchbros = new loc(37.968800, -121.298945);
+  var icicles2 = new loc(37.322523, -122.017950);
+  var icicles3 = new loc(37.523488, -122.007869);
+  var icicles4 = new loc(37.661310, -121.874995);
+  var icicles5 = new loc(37.565186, -122.322635);
+  var soyful = new loc(37.332042, -121.856788);
+  var soyful2 = new loc(37.308872, -121.814465);
+  var bakedbear2 = new loc(37.798089, -122.407257);
+  var teazone = new loc(37.375622, -122.062170);
+  var teazone2 = new loc(37.309522, -121.949742);
+  var teazone3 = new loc(37.261394, -121.875528);
+  var yumiyogurt2 = new loc(37.532675, -122.291969);
+  var yumiyogurt3 = new loc(37.484929, -122.233245);
+  var nshoneyberry = new loc(37.351626, -121.992916);
+  var nshoneyberry2 = new loc(37.409479, -121.945651);
+  var nshoneyberry3 = new loc(37.455388, -121.911783);
+  var gongcha2 = new loc(37.325541, -121.813376);
+  var gongcha3 = new loc(37.292351, -121.988394);
+  var gongcha4 = new loc(37.386994, -121.887413);
+  var gongcha5 = new loc(37.521303, -121.996224);
+  var gongcha6 = new loc(37.447633, -122.160730);
+  var gongcha7 = new loc(37.566825, -122.324030);
+  var gongcha8 = new loc(37.333744, -121.884814);
+  var gongcha9 = new loc(37.339704, -122.042642);
   var map = new google.maps.Map(document.getElementById('map'), {
     zoom: 9,
     center: frozencafe.getDict()
@@ -737,6 +760,213 @@ var contentString71 = '<div id="content">'+
 '<img id="myImage" src="https://s3-media4.fl.yelpcdn.com/bphoto/VrP4BTocH-f1U4OyGSR9fA/348s.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
+  var contentString72 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Icicles</h1>'+
+      '<div id="bodyContent">'+
+      '<p>19622 Stevens Creek Blvd, Cupertino, CA 95014</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.134.1080.1080/16124023_234736516935517_9219670539549802496_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+   var contentString73 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Icicles</h1>'+
+      '<div id="bodyContent">'+
+      '<p>39055 Cedar Blvd #118, Newark, CA 94560</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.100.800.800/20225836_1416548208432845_4487232658056675328_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString74 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Icicles</h1>'+
+      '<div id="bodyContent">'+
+      '<p>600 Main St f, Pleasanton, CA 94566</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19932702_1848138662114552_8227025394679676928_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString75 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Icicles</h1>'+
+      '<div id="bodyContent">'+
+      '<p>222 E 3rd Ave San Mateo, CA 94401</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/18879555_694874560695738_957270660348903424_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString76 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Soyful</h1>'+
+      '<div id="bodyContent">'+
+      '<p>999 Story Rd, San Jose, CA 95122</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.134.1080.1080/19764400_148121465752231_5842856978149277696_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString77 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Soyful</h1>'+
+      '<div id="bodyContent">'+
+      '<p>3005 Silver Creek Rd #170, San Jose, CA 95121</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20065738_207942979736168_5716258303089049600_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString78 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">The Baked Bear</h1>'+
+      '<div id="bodyContent">'+
+      '<p>303 Columbus Ave, San Francisco, CA 94133</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/e35/15276711_1300466040012576_464420294094749696_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString79 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">The Tea Zone and Fruit Bar</h1>'+
+      '<div id="bodyContent">'+
+      '<p>805 E El Camino Real F, Mountain View, CA 94040</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12256883_543522022463909_1221693658_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString80 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">The Tea Zone and Fruit Bar</h1>'+
+      '<div id="bodyContent">'+
+      '<p>980 S Winchester Blvd Suite 20, San Jose, CA 95128</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.102.1080.1080/19984820_1964173070533549_946688543831359488_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString81 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">The Tea Zone and Fruit Bar</h1>'+
+      '<div id="bodyContent">'+
+      '<p>4750 Almaden Expy j, San Jose, CA 95118</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/e35/18579691_1652738731421528_7472644814685601792_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString82 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Yumi Yogurt</h1>'+
+      '<div id="bodyContent">'+
+      '<p>3955 S El Camino Real, San Mateo, CA 94403</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.87.1080.1080/17818367_1859585614259644_7693006048906444800_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString83 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Yumi Yogurt</h1>'+
+      '<div id="bodyContent">'+
+      '<p>947 El Camino Real, Redwood City, CA 94063</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.134.1080.1080/13113826_215687855483659_1209676563_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString84 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Honeyberry</h1>'+
+      '<div id="bodyContent">'+
+      '<p>93488 El Camino Real, Santa Clara, CA 95051</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/19228166_1844891242496438_27884890485686272_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString85 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Honeyberry</h1>'+
+      '<div id="bodyContent">'+
+      '<p>3655 N 1st St, San Jose, CA 95134</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/20347381_1914134448841567_100561062893453312_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString86 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Honeyberry</h1>'+
+      '<div id="bodyContent">'+
+      '<p>1735 N Milpitas Blvd, Milpitas, CA 95035</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20181332_112528319393752_5240248722645843968_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString87 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Gong Cha</h1>'+
+      '<div id="bodyContent">'+
+      '<p>2200 Eastridge Loop, San Jose, CA 95122</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/18095696_1673811819590064_6107196740450910208_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString88 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Gong Cha</h1>'+
+      '<div id="bodyContent">'+
+      '<p>1600 Saratoga Ave #115, San Jose, CA 95129</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18094699_142063806333448_6822813612805980160_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString89 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Gong Cha</h1>'+
+      '<div id="bodyContent">'+
+      '<p>1701 Lundy Ave, San Jose, CA 95131</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/14026575_1636776416634118_521972762_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString90 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Gong Cha</h1>'+
+      '<div id="bodyContent">'+
+      '<p>39736 Cedar Blvd, Newark, CA 94560</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/13737054_158388717922445_982147937_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString91 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Gong Cha</h1>'+
+      '<div id="bodyContent">'+
+      '<p>439 Waverley St, Palo Alto, CA 94301</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/13584150_161593990924623_635890293_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+   var contentString92 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Gong Cha</h1>'+
+      '<div id="bodyContent">'+
+      '<p>110 S B St, San Mateo, CA 94401</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/13397424_733407746800978_1746301963_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString93 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Gong Cha</h1>'+
+      '<div id="bodyContent">'+
+      '<p>140 Paseo De San Antonio #170, San Jose, CA 95112</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/e35/13117908_1725007941091209_1706458887_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString94 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Gong Cha</h1>'+
+      '<div id="bodyContent">'+
+      '<p>1641 Hollenbeck Ave, Sunnyvale, CA 94087</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12940861_1158886404142324_818743344_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
 
 //INFOWINDOWS
   var infowindow = tpumps.getInfoWindow(contentString);
@@ -746,7 +976,7 @@ var contentString71 = '<div id="content">'+
   var infowindow5 = bakedbear.getInfoWindow(contentString5);
   var infowindow6 = steep.getInfoWindow(contentString6);
   var infowindow7 = uji.getInfoWindow(contentString7);
-	var infowindow8 = vampirepenguin.getInfoWindow(contentString8);
+  var infowindow8 = vampirepenguin.getInfoWindow(contentString8);
   var infowindow9 = popbar.getInfoWindow(contentString9);
   var infowindow10 = snowyvillage.getInfoWindow(contentString10);
   var infowindow11 = yumiyogurt.getInfoWindow(contentString11);
@@ -810,6 +1040,29 @@ var contentString71 = '<div id="content">'+
   var infowindow69 = aqua.getInfoWindow(contentString69);
   var infowindow70 = philz.getInfoWindow(contentString70);
   var infowindow71 = dutchbros.getInfoWindow(contentString71);
+  var infowindow72 = icicles2.getInfoWindow(contentString72);
+  var infowindow73 = icicles3.getInfoWindow(contentString73);
+  var infowindow74 = icicles4.getInfoWindow(contentString74);
+  var infowindow75 = icicles5.getInfoWindow(contentString75);
+  var infowindow76 = soyful.getInfoWindow(contentString76);
+  var infowindow77 = soyful2.getInfoWindow(contentString77);
+  var infowindow78 = bakedbear2.getInfoWindow(contentString78);
+  var infowindow79 = teazone.getInfoWindow(contentString79);
+  var infowindow80 = teazone2.getInfoWindow(contentString80);
+  var infowindow81 = teazone3.getInfoWindow(contentString81);
+  var infowindow82 = yumiyogurt2.getInfoWindow(contentString82);
+  var infowindow83 = yumiyogurt3.getInfoWindow(contentString83);
+  var infowindow84 = nshoneyberry.getInfoWindow(contentString84);
+  var infowindow85 = nshoneyberry2.getInfoWindow(contentString85);
+  var infowindow86 = nshoneyberry3.getInfoWindow(contentString86);
+  var infowindow87 = gongcha2.getInfoWindow(contentString87);
+  var infowindow88 = gongcha3.getInfoWindow(contentString88);
+  var infowindow89 = gongcha4.getInfoWindow(contentString89);
+  var infowindow90 = gongcha5.getInfoWindow(contentString90);
+  var infowindow91 = gongcha6.getInfoWindow(contentString91);
+  var infowindow92 = gongcha7.getInfoWindow(contentString92);
+  var infowindow93 = gongcha8.getInfoWindow(contentString93);
+  var infowindow94 = gongcha9.getInfoWindow(contentString94);
 
 //MARKERS
   var marker = tpumps.getMarker(map,'T-Pumps');
@@ -1095,6 +1348,98 @@ var contentString71 = '<div id="content">'+
   var marker71 = dutchbros.getMarker(map,'Dutch Coffee Bros');
   infowindows.push(infowindow71);
   markers.push(marker71);
+ 
+  var marker72 = icicles2.getMarker(map,'Icicles');
+	infowindows.push(infowindow72);
+  markers.push(marker72);
+  
+  var marker73 = icicles3.getMarker(map,'Icicles');
+  infowindows.push(infowindow73);
+  markers.push(marker73);
+  
+  var marker74 = icicles4.getMarker(map,'Icicles');
+  infowindows.push(infowindow74);
+  markers.push(marker74);
+  
+  var marker75 = icicles5.getMarker(map,'Icicles');
+  infowindows.push(infowindow75);
+  markers.push(marker75);
+  
+  var marker76 = soyful.getMarker(map,'Soyful');
+  infowindows.push(infowindow76);
+  markers.push(marker76);
+  
+  var marker77 = soyful2.getMarker(map,'Soyful');
+  infowindows.push(infowindow77);
+  markers.push(marker77);
+  
+  var marker78 = bakedbear2.getMarker(map,'The Baked Bear');
+  infowindows.push(infowindow78);
+  markers.push(marker78);
+  
+  var marker79 = teazone.getMarker(map,'The Tea Zone and Fruit Bar');
+  infowindows.push(infowindow79);
+  markers.push(marker79);
+  
+  var marker80 = teazone2.getMarker(map,'The Tea Zone and Fruit Bar');
+  infowindows.push(infowindow80);
+  markers.push(marker80);
+  
+  var marker81 = teazone3.getMarker(map,'The Tea Zone and Fruit Bar');
+  infowindows.push(infowindow81);
+  markers.push(marker81);
+  
+  var marker82 = yumiyogurt2.getMarker(map,'Yumi Yogurt');
+  infowindows.push(infowindow82);
+  markers.push(marker82);
+  
+  var marker83 = yumiyogurt3.getMarker(map,'Yumi Yogurt');
+  infowindows.push(infowindow83);
+  markers.push(marker83);
+  
+  var marker84 = nshoneyberry.getMarker(map,'Honeyberry');
+  infowindows.push(infowindow84);
+  markers.push(marker84);
+  
+  var marker85 = nshoneyberry2.getMarker(map,'Honeyberry');
+  infowindows.push(infowindow85);
+  markers.push(marker85);
+  
+  var marker86 = nshoneyberry3.getMarker(map,'Honeyberry');
+  infowindows.push(infowindow86);
+  markers.push(marker86);
+  
+  var marker87 = gongcha2.getMarker(map,'Gong Cha');
+  infowindows.push(infowindow87);
+  markers.push(marker87);
+  
+  var marker88 = gongcha3.getMarker(map,'Gong Cha');
+  infowindows.push(infowindow88);
+  markers.push(marker88);
+  
+  var marker89 = gongcha4.getMarker(map,'Gong Cha');
+  infowindows.push(infowindow89);
+  markers.push(marker89);
+  
+  var marker90 = gongcha5.getMarker(map,'Gong Cha');
+  infowindows.push(infowindow90);
+  markers.push(marker90);
+  
+  var marker91 = gongcha6.getMarker(map,'Gong Cha');
+  infowindows.push(infowindow91);
+  markers.push(marker91);
+  
+  var marker92 = gongcha7.getMarker(map,'Gong Cha');
+  infowindows.push(infowindow92);
+  markers.push(marker92);
+  
+  var marker93 = gongcha8.getMarker(map,'Gong Cha');
+  infowindows.push(infowindow93);
+  markers.push(marker93);
+  
+  var marker94 = gongcha9.getMarker(map,'Gong Cha');
+  infowindows.push(infowindow94);
+  markers.push(marker94);
 
 
   marker.addListener('click',function() {
@@ -1312,5 +1657,74 @@ var contentString71 = '<div id="content">'+
   });
   marker71.addListener('click',function() {
     infowindow71.open(map,marker71);
+  });
+   marker72.addListener('click',function() {
+    infowindow72.open(map,marker72);
+  });
+  marker73.addListener('click',function() {
+    infowindow73.open(map,marker73);
+  });
+  marker74.addListener('click',function() {
+    infowindow74.open(map,marker74);
+  });
+  marker75.addListener('click',function() {
+    infowindow75.open(map,marker75);
+  });
+  marker76.addListener('click',function() {
+    infowindow76.open(map,marker76);
+  });
+  marker77.addListener('click',function() {
+    infowindow77.open(map,marker77);
+  });
+  marker78.addListener('click',function() {
+    infowindow78.open(map,marker78);
+  });
+  marker79.addListener('click',function() {
+    infowindow79.open(map,marker79);
+  });
+  marker80.addListener('click',function() {
+    infowindow80.open(map,marker80);
+  });
+  marker81.addListener('click',function() {
+    infowindow81.open(map,marker81);
+  });
+  marker82.addListener('click',function() {
+    infowindow82.open(map,marker82);
+  });
+  marker83.addListener('click',function() {
+    infowindow83.open(map,marker83);
+  });
+  marker84.addListener('click',function() {
+    infowindow84.open(map,marker84);
+  });
+  marker85.addListener('click',function() {
+    infowindow85.open(map,marker85);
+  });
+  marker86.addListener('click',function() {
+    infowindow86.open(map,marker86);
+  });
+  marker87.addListener('click',function() {
+    infowindow87.open(map,marker87);
+  });
+  marker88.addListener('click',function() {
+    infowindow88.open(map,marker88);
+  });
+  marker89.addListener('click',function() {
+    infowindow89.open(map,marker89);
+  });
+  marker90.addListener('click',function() {
+    infowindow90.open(map,marker90);
+  });
+  marker91.addListener('click',function() {
+    infowindow91.open(map,marker91);
+  });
+  marker92.addListener('click',function() {
+    infowindow92.open(map,marker92);
+  });
+  marker93.addListener('click',function() {
+    infowindow93.open(map,marker93);
+  });
+  marker94.addListener('click',function() {
+    infowindow94.open(map,marker94);
   });
 }
