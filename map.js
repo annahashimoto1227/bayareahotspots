@@ -153,6 +153,15 @@ var cream10 = new loc(37.683731, -121.767806);
 var tpumps2 = new loc(37.323236, -122.022876);
 var tpumps3 = new loc(37.557380, -122.274781);
 var tpumps4 = new loc(37.579506, -122.345974);
+var bobaguys2 = new loc(37.772869, -122.423479);
+var bobaguys3 = new loc(37.760000, -122.421124);
+var bobaguys4 = new loc(37.789970, -122.407287);
+var bobaguys5 = new loc(37.783672, -122.432574);
+var bobaguys6 = new loc(37.766545, -122.397162);
+var acre2 = new loc(38.246000, -122.644643);
+var acre3 = new loc(38.249637, -122.628689);
+var acre4 = new loc(38.446506, -122.687118);
+var james2 = new loc(37.805476, -122.267183);
 var map = new google.maps.Map(document.getElementById('map'), {
 zoom: 9,
 center: frozencafe.getDict()
@@ -1336,6 +1345,87 @@ var contentString130 = '<div id="content">'+
  '<img id="myImage" src="https://s-media-cache-ak0.pinimg.com/736x/2e/07/e0/2e07e077a2880dc0b70b748f3b69b42c--tag-icecream.jpg" height=150 width=150></img>' +
        '</div>'+
        '</div>';
+var contentString133 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Boba Guys</h1>'+
+      '<div id="bodyContent">'+
+      '<p>8 Octavia St #308, San Francisco, CA 94102</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20225722_2347078135516624_4915874860963463168_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString134 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Boba Guys</h1>'+
+      '<div id="bodyContent">'+
+      '<p>3491 19th St, San Francisco, CA 94110</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.134.1080.1080/20225869_271872319962681_3988202357849587712_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString135 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Boba Guys</h1>'+
+      '<div id="bodyContent">'+
+      '<p>429 Stockton St., San Francisco CA 94108</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/e35/c0.51.412.412/19436286_1903921563199595_3766218270235951104_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString136 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Boba Guys</h1>'+
+      '<div id="bodyContent">'+
+      '<p>1522 Fillmore St., San Francisco CA 94115</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/18888376_832167513598632_6965570745107742720_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString137 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Boba Guys</h1>'+
+      '<div id="bodyContent">'+
+      '<p>1002 16th. St., San Francisco CA 94107</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/18812301_812013242307330_2445604556445319168_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString138 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Acre Coffee</h1>'+
+      '<div id="bodyContent">'+
+      '<p>11080 Petaluma Blvd N, Petaluma, CA 94952</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18513912_129174324307428_2317164495761309696_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString139 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Acre Coffee</h1>'+
+      '<div id="bodyContent">'+
+      '<p>173 N McDowell Blvd, Petaluma, CA 94954</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18513037_777015392500320_5126112423475937280_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString140 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Acre Coffee</h1>'+
+      '<div id="bodyContent">'+
+      '<p>2365 Midway Dr, Santa Rosa, CA 95405</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20398442_271547749993417_9057777326489600000_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
+  var contentString141 = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">James and the Giant Cupcake</h1>'+
+      '<div id="bodyContent">'+
+      '<p>341 17th St, Oakland, CA 94612</p>' +
+'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20066943_114012929243579_3397798050054275072_n.jpg" height=150 width=150></img>' +
+      '</div>'+
+      '</div>';
 
 //INFOWINDOWS
 var infowindow = tpumps.getInfoWindow(contentString);
@@ -1469,6 +1559,15 @@ var infowindow128 = cream10.getInfoWindow(contentString128);
 var infowindow130 = tpumps2.getInfoWindow(contentString130);
 var infowindow131 = tpumps3.getInfoWindow(contentString131);
 var infowindow132 = tpumps4.getInfoWindow(contentString132);
+ var infowindow133 = bobaguys2.getInfoWindow(contentString133);
+  var infowindow134 = bobaguys3.getInfoWindow(contentString134);
+  var infowindow135 = bobaguys4.getInfoWindow(contentString135);
+  var infowindow136 = bobaguys5.getInfoWindow(contentString136);
+  var infowindow137 = bobaguys6.getInfoWindow(contentString137);
+  var infowindow138 = acre2.getInfoWindow(contentString138);
+  var infowindow139 = acre3.getInfoWindow(contentString139);
+  var infowindow140 = acre4.getInfoWindow(contentString140);
+  var infowindow141 = james2.getInfoWindow(contentString141);
 
 
 //MARKERS
@@ -1996,6 +2095,42 @@ var marker132 = tpumps4.getMarker(map,'T-Pumps');
 infowindows.push(infowindow132);
 markers.push(marker132);
 
+var marker133 = bobaguys2.getMarker(map,'Boba Guys');
+  infowindows.push(infowindow133);
+  markers.push(marker133);
+  
+  var marker134 = bobaguys3.getMarker(map,'Boba Guys');
+  infowindows.push(infowindow134);
+  markers.push(marker134);
+  
+  var marker135 = bobaguys4.getMarker(map,'Boba Guys');
+  infowindows.push(infowindow135);
+  markers.push(marker135);
+  
+  var marker136 = bobaguys5.getMarker(map,'Boba Guys');
+  infowindows.push(infowindow136);
+  markers.push(marker136);
+  
+  var marker137 = bobaguys6.getMarker(map,'Boba Guys');
+  infowindows.push(infowindow137);
+  markers.push(marker137);
+  
+  var marker138 = acre2.getMarker(map,'Acre Coffee');
+  infowindows.push(infowindow138);
+  markers.push(marker138);
+  
+  var marker139 = acre3.getMarker(map,'Acre Coffee');
+  infowindows.push(infowindow139);
+  markers.push(marker139);
+  
+  var marker140 = acre4.getMarker(map,'Acre Coffee');
+  infowindows.push(infowindow140);
+  markers.push(marker140);
+  
+  var marker141 = james2.getMarker(map,'James and the Giant Cupcake');
+  infowindows.push(infowindow141);
+  markers.push(marker141);
+
 
 
   marker.addListener('click',function() {
@@ -2395,4 +2530,31 @@ marker131.addListener('click',function() {
 marker132.addListener('click',function() {
   infowindow132.open(map,marker132);
 });
+marker133.addListener('click',function() {
+    infowindow133.open(map,marker133);
+  });
+  marker134.addListener('click',function() {
+    infowindow134.open(map,marker134);
+  });
+  marker135.addListener('click',function() {
+    infowindow135.open(map,marker135);
+  });
+  marker136.addListener('click',function() {
+    infowindow136.open(map,marker136);
+  });
+  marker137.addListener('click',function() {
+    infowindow137.open(map,marker137);
+  });
+  marker138.addListener('click',function() {
+    infowindow138.open(map,marker138);
+  });
+  marker139.addListener('click',function() {
+    infowindow139.open(map,marker139);
+  });
+  marker140.addListener('click',function() {
+    infowindow140.open(map,marker140);
+  });
+  marker141.addListener('click',function() {
+    infowindow141.open(map,marker141);
+  });
 }
