@@ -141,7 +141,16 @@ function initMap() {
   var psycho2 = new loc(37.332284, -121.885973); 
   var psycho3 = new loc(37.351737, -121.959806); 
   var tinpot2 = new loc(37.438674, -122.158951); 
-  var tinpot3 = new loc(37.288374, -121.933138); 
+  var tinpot3 = new loc(37.288374, -121.933138);
+  var cream2 = new loc(37.335321, -121.890111);//120
+  var cream3 = new loc(37.323232, -122.012063);//121
+  var cream4 = new loc(37.765051, -122.422216);//122
+  var cream5 = new loc(37.566538, -122.323818);//123
+  var cream6 = new loc(37.786910, -122.280822);//124
+  var cream7 = new loc(37.727900, -122.477015); //125
+  var cream8 = new loc(37.867038, -122.258725);//126
+  var cream9 = new loc(37.500996, -121.969007);//127
+  var cream10 = new loc(37.683731, -121.767806);//128
   var map = new google.maps.Map(document.getElementById('map'), {
     zoom: 9,
     center: frozencafe.getDict()
@@ -1217,6 +1226,87 @@ var contentString71 = '<div id="content">'+
 '<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18809554_1336308053073767_5110977675984371712_n.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
+var contentString120 = '<div id="content">'+
+       '<div id="siteNotice">'+
+       '</div>'+
+       '<h1 id="firstHeading" class="firstHeading">CREAM</h1>'+
+       '<div id="bodyContent">'+
+       '<p>49 S 1st St, San Jose, CA 95113</p>' +
+ '<img id="myImage" src="https://s-media-cache-ak0.pinimg.com/736x/2e/07/e0/2e07e077a2880dc0b70b748f3b69b42c--tag-icecream.jpg" height=150 width=150></img>' +
+       '</div>'+
+       '</div>';
+ var contentString121 = '<div id="content">'+
+       '<div id="siteNotice">'+
+       '</div>'+
+       '<h1 id="firstHeading" class="firstHeading">CREAM</h1>'+
+       '<div id="bodyContent">'+
+       '<p>19501 Stevens Creek Blvd #102, Cupertino, CA 95014</p>' +
+ '<img id="myImage" src="https://s-media-cache-ak0.pinimg.com/736x/2e/07/e0/2e07e077a2880dc0b70b748f3b69b42c--tag-icecream.jpg" height=150 width=150></img>' +
+       '</div>'+
+       '</div>';
+ var contentString122 = '<div id="content">'+
+       '<div id="siteNotice">'+
+       '</div>'+
+       '<h1 id="firstHeading" class="firstHeading">CREAM</h1>'+
+       '<div id="bodyContent">'+
+       '<p>3106 16th St, San Francisco, CA 94103</p>' +
+ '<img id="myImage" src="https://s-media-cache-ak0.pinimg.com/736x/2e/07/e0/2e07e077a2880dc0b70b748f3b69b42c--tag-icecream.jpg" height=150 width=150></img>' +
+       '</div>'+
+       '</div>';
+ var contentString123 = '<div id="content">'+
+       '<div id="siteNotice">'+
+       '</div>'+
+       '<h1 id="firstHeading" class="firstHeading">CREAM</h1>'+
+       '<div id="bodyContent">'+
+       '<p>134 S B St, San Mateo, CA 94401</p>' +
+ '<img id="myImage" src="https://s-media-cache-ak0.pinimg.com/736x/2e/07/e0/2e07e077a2880dc0b70b748f3b69b42c--tag-icecream.jpg" height=150 width=150></img>' +
+       '</div>'+
+       '</div>';
+ var contentString124 = '<div id="content">'+
+       '<div id="siteNotice">'+
+       '</div>'+
+       '<h1 id="firstHeading" class="firstHeading">CREAM</h1>'+
+       '<div id="bodyContent">'+
+       '<p>2630 5th St, Alameda, CA 94501</p>' +
+ '<img id="myImage" src="https://s-media-cache-ak0.pinimg.com/736x/2e/07/e0/2e07e077a2880dc0b70b748f3b69b42c--tag-icecream.jpg" height=150 width=150></img>' +
+       '</div>'+
+       '</div>';
+ var contentString125 = '<div id="content">'+//edit from here
+       '<div id="siteNotice">'+
+       '</div>'+
+       '<h1 id="firstHeading" class="firstHeading">CREAM</h1>'+
+       '<div id="bodyContent">'+
+       '<p>3251 20th Ave, San Francisco, CA 94132</p>' +
+ '<img id="myImage" src="https://s-media-cache-ak0.pinimg.com/736x/2e/07/e0/2e07e077a2880dc0b70b748f3b69b42c--tag-icecream.jpg" height=150 width=150></img>' +
+       '</div>'+
+       '</div>';
+ var contentString126 = '<div id="content">'+
+       '<div id="siteNotice">'+
+       '</div>'+
+       '<h1 id="firstHeading" class="firstHeading">CREAM</h1>'+
+       '<div id="bodyContent">'+
+       '<p>2399 Telegraph Ave, Berkeley, CA 94704</p>' +
+ '<img id="myImage" src="https://s-media-cache-ak0.pinimg.com/736x/2e/07/e0/2e07e077a2880dc0b70b748f3b69b42c--tag-icecream.jpg" height=150 width=150></img>' +
+       '</div>'+
+       '</div>';
+ var contentString127 = '<div id="content">'+
+       '<div id="siteNotice">'+
+       '</div>'+
+       '<h1 id="firstHeading" class="firstHeading">CREAM</h1>'+
+       '<div id="bodyContent">'+
+       '<p>43982 Pacific Commons Blvd, Fremont, CA 94538</p>' +
+ '<img id="myImage" src="https://s-media-cache-ak0.pinimg.com/736x/2e/07/e0/2e07e077a2880dc0b70b748f3b69b42c--tag-icecream.jpg" height=150 width=150></img>' +
+       '</div>'+
+       '</div>';
+ var contentString128 = '<div id="content">'+
+       '<div id="siteNotice">'+
+       '</div>'+
+       '<h1 id="firstHeading" class="firstHeading">CREAM</h1>'+
+       '<div id="bodyContent">'+
+       '<p>2375 Railroad Ave, Livermore, CA 94550</p>' +
+ '<img id="myImage" src="https://s-media-cache-ak0.pinimg.com/736x/2e/07/e0/2e07e077a2880dc0b70b748f3b69b42c--tag-icecream.jpg" height=150 width=150></img>' +
+       '</div>'+
+       '</div>';
 
 //INFOWINDOWS
   var infowindow = tpumps.getInfoWindow(contentString);
@@ -1338,6 +1428,17 @@ var contentString71 = '<div id="content">'+
   var infowindow117 = psycho3.getInfoWindow(contentString117);
   var infowindow118 = tinpot2.getInfoWindow(contentString118);
   var infowindow119 = tinpot3.getInfoWindow(contentString119);
+  var infowindow120 = cream2.getInfoWindow(contentString120);
+var infowindow121 = cream3.getInfoWindow(contentString121);
+var infowindow122 = cream4.getInfoWindow(contentString122);
+var infowindow123 = cream5.getInfoWindow(contentString123);
+var infowindow124 = cream6.getInfoWindow(contentString124);
+var infowindow125 = cream7.getInfoWindow(contentString125);
+var infowindow126 = cream8.getInfoWindow(contentString126);
+var infowindow127 = cream9.getInfoWindow(contentString127);
+var infowindow128 = cream10.getInfoWindow(contentString128);
+
+
 
 //MARKERS
   var marker = tpumps.getMarker(map,'T-Pumps');
@@ -1815,6 +1916,43 @@ var contentString71 = '<div id="content">'+
   var marker119 = tinpot3.getMarker(map,'Tin Pot Creamery');
   infowindows.push(infowindow119);
   markers.push(marker119);
+	
+var marker120 = cream2.getMarker(map,'CREAM');
+infowindows.push(infowindow120);
+markers.push(marker120);
+
+var marker121 = cream3.getMarker(map,'CREAM');
+infowindows.push(infowindow121);
+markers.push(marker121);
+
+var marker122 = cream4.getMarker(map,'CREAM');
+infowindows.push(infowindow122);
+markers.push(marker122);
+
+var marker123 = cream5.getMarker(map,'CREAM');
+infowindows.push(infowindow123);
+markers.push(marker123);
+
+var marker124 = cream6.getMarker(map,'CREAM');
+infowindows.push(infowindow124);
+markers.push(marker124);
+
+var marker125 = cream7.getMarker(map,'CREAM');
+infowindows.push(infowindow125);
+markers.push(marker125);
+
+var marker126 = cream8.getMarker(map,'CREAM');
+infowindows.push(infowindow126);
+markers.push(marker126);
+
+var marker127 = cream9.getMarker(map,'CREAM');
+infowindows.push(infowindow127);
+markers.push(marker127);
+
+var marker128 = cream10.getMarker(map,'CREAM');
+infowindows.push(infowindow128);
+markers.push(marker128);
+
 
 
   marker.addListener('click',function() {
@@ -2177,4 +2315,32 @@ var contentString71 = '<div id="content">'+
   marker119.addListener('click',function() {
   	infowindow119.open(map,marker119);
   });
+
+marker120.addListener('click',function() {
+  infowindow120.open(map,marker120);
+});
+marker121.addListener('click',function() {
+  infowindow121.open(map,marker121);
+});
+marker122.addListener('click',function() {
+  infowindow122.open(map,marker122);
+});
+marker123.addListener('click',function() {
+  infowindow123.open(map,marker123);
+});
+marker124.addListener('click',function() {
+  infowindow124.open(map,marker124);
+});
+marker125.addListener('click',function() {
+  infowindow125.open(map,marker125);
+});
+marker126.addListener('click',function() {
+  infowindow126.open(map,marker126);
+});
+marker127.addListener('click',function() {
+  infowindow127.open(map,marker127);
+});
+marker128.addListener('click',function() {
+  infowindow128.open(map,marker128);
+});
 }
