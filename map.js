@@ -151,6 +151,9 @@ var cream8 = new loc(37.867038, -122.258725);
 var cream9 = new loc(37.500996, -121.969007);
 var cream10 = new loc(37.683731, -121.767806);
 var creamistry2 = new loc(36.839137, -119.725699);
+var tpumps2 = new loc(37.323236, -122.022876);
+var tpumps3 = new loc(37.557380, -122.274781);
+var tpumps4 = new loc(37.579506, -122.345974);
 var map = new google.maps.Map(document.getElementById('map'), {
 zoom: 9,
 center: frozencafe.getDict()
@@ -1316,6 +1319,33 @@ var contentString129 = '<div id="content">'+
 '<img id="myImage" src="https://s3-media2.fl.yelpcdn.com/bphoto/ZvfluyYcGTqUlBDnP_LfEg/o.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
+var contentString130 = '<div id="content">'+
+       '<div id="siteNotice">'+
+       '</div>'+
+       '<h1 id="firstHeading" class="firstHeading">T-Pumps</h1>'+
+       '<div id="bodyContent">'+
+       '<p>19959 Stevens Creek Blvd, Cupertino, CA 95014</p>' +
+ '<img id="myImage" src="https://s-media-cache-ak0.pinimg.com/736x/2e/07/e0/2e07e077a2880dc0b70b748f3b69b42c--tag-icecream.jpg" height=150 width=150></img>' +
+       '</div>'+
+       '</div>';
+ var contentString131 = '<div id="content">'+
+       '<div id="siteNotice">'+
+       '</div>'+
+       '<h1 id="firstHeading" class="firstHeading">T-Pumps</h1>'+
+       '<div id="bodyContent">'+
+       '<p>985 E Hillsdale Blvd, Foster City, CA 94404</p>' +
+ '<img id="myImage" src="https://s-media-cache-ak0.pinimg.com/736x/2e/07/e0/2e07e077a2880dc0b70b748f3b69b42c--tag-icecream.jpg" height=150 width=150></img>' +
+       '</div>'+
+       '</div>';
+ var contentString132 = '<div id="content">'+
+       '<div id="siteNotice">'+
+       '</div>'+
+       '<h1 id="firstHeading" class="firstHeading">T-Pumps</h1>'+
+       '<div id="bodyContent">'+
+       '<p>1118 Burlingame Ave, Burlingame, CA 94010</p>' +
+ '<img id="myImage" src="https://s-media-cache-ak0.pinimg.com/736x/2e/07/e0/2e07e077a2880dc0b70b748f3b69b42c--tag-icecream.jpg" height=150 width=150></img>' +
+       '</div>'+
+       '</div>';
 
 //INFOWINDOWS
 var infowindow = tpumps.getInfoWindow(contentString);
@@ -1447,7 +1477,9 @@ var infowindow126 = cream8.getInfoWindow(contentString126);
 var infowindow127 = cream9.getInfoWindow(contentString127);
 var infowindow128 = cream10.getInfoWindow(contentString128);
 var infowindow129 = creamistry2.getInfoWindow(contentString129);
-
+var infowindow130 = tpumps2.getInfoWindow(contentString130);
+var infowindow131 = tpumps3.getInfoWindow(contentString131);
+var infowindow132 = tpumps4.getInfoWindow(contentString132);
 
 
 //MARKERS
@@ -1967,6 +1999,18 @@ var marker129 = creamistry2.getMarker(map,'Creamistry');
 infowindows.push(infowindow129);
 markers.push(marker129);
 
+var marker130 = tpumps2.getMarker(map,'T-Pumps');
+infowindows.push(infowindow130);
+markers.push(marker130);
+
+var marker131 = tpumps3.getMarker(map,'T-Pumps');
+infowindows.push(infowindow131);
+markers.push(marker131);
+
+var marker132 = tpumps4.getMarker(map,'T-Pumps');
+infowindows.push(infowindow132);
+markers.push(marker132);
+
 
 
   marker.addListener('click',function() {
@@ -2359,5 +2403,14 @@ marker128.addListener('click',function() {
 });
 marker129.addListener('click',function() {
   infowindow129.open(map,marker129);
+});
+marker130.addListener('click',function() {
+  infowindow130.open(map,marker130);
+});
+marker131.addListener('click',function() {
+  infowindow131.open(map,marker131);
+});
+marker132.addListener('click',function() {
+  infowindow132.open(map,marker132);
 });
 }
