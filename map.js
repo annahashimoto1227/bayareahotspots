@@ -667,7 +667,7 @@ var contentString56 = '<div id="content">'+
     '<h1 id="firstHeading" class="firstHeading">Scoop Microcreamery</h1>'+
     '<div id="bodyContent">'+
     '<p>203 University Ave, Palo Alto, CA 94301</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/14624517_265635107210563_3119592621492666368_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://s3-media2.fl.yelpcdn.com/bphoto/5Ww1EkKgThqqAE2VI8OPuw/ls.jpg" height=150 width=150></img>' +
     '</div>'+
     '</div>';
 var contentString57 = '<div id="content">'+
@@ -676,7 +676,7 @@ var contentString57 = '<div id="content">'+
     '<h1 id="firstHeading" class="firstHeading">Smitten</h1>'+
     '<div id="bodyContent">'+
     '<p>3545 Mt Diablo Blvd, Lafayette, CA 94549</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20065742_294091811062161_6887438151757856768_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://fastly.4sqi.net/img/general/600x600/54887688_4DPMGCP9TGuioiex7ntVVMdViU-c7a6rNu3WQKtcCHs.jpg" height=150 width=150></img>' +
     '</div>'+
     '</div>';
 var contentString58 = '<div id="content">'+
@@ -685,7 +685,7 @@ var contentString58 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Milk Tea Lab</h1>'+
       '<div id="bodyContent">'+
       '<p>1972 Contra Costa Blvd, Pleasant Hill, CA 94523</p>' +
-'<img id="myImage" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2M1Q0lGml93Dk8yBQMZ9sqxesAuHs7cEKVuiK9Ad3pExCEoQ3" height=150 width=150></img>' +
+'<img id="myImage" src="https://s3-media1.fl.yelpcdn.com/bphoto/PNwxnSChqp_edYQONaH85w/348s.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
 var contentString59 = '<div id="content">'+
@@ -694,7 +694,7 @@ var contentString59 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Asha Tea House</h1>'+
       '<div id="bodyContent">'+
       '<p>2086 University Ave, Berkeley, CA 94704</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19050319_371955066540107_3738841014819880960_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://www.berkeleyside.com/wp-content/uploads/2016/05/blood-orange-720x720.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
 var contentString60 = '<div id="content">'+
@@ -703,7 +703,7 @@ var contentString60 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">The Mix Creamery</h1>'+
       '<div id="bodyContent">'+
       '<p>6601 Dublin Blvd c, Dublin, CA 94568</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18888854_449039358793134_5385467833280888832_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://pbs.twimg.com/media/DGwCyHaU0AAtIoM.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
 var contentString61 = '<div id="content">'+
@@ -712,7 +712,7 @@ var contentString61 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Freezing Point Creamery</h1>'+
       '<div id="bodyContent">'+
       '<p>349 7th St, Oakland, CA 94607</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.88.1080.1080/17662699_1887953671441867_4398840938319839232_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://bridgegood-prod.s3.amazonaws.com/attachments/cropped_img/1695_data.original.?1500593685" height=150 width=150></img>' +
       '</div>'+
       '</div>';
 var contentString62 = '<div id="content">'+
@@ -721,7 +721,7 @@ var contentString62 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Amorino Gelato Al Naturale</h1>'+
       '<div id="bodyContent">'+
       '<p>3658 Livermore Outlets Dr, Livermore, CA 94551</p>' +
-'<img id="myImage" src="https://s3-media1.fl.yelpcdn.com/bphoto/9619PaEhlmHv5MZ6nty4aA/o.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://s3-media2.fl.yelpcdn.com/bphoto/XbDDwv0-WtzTCMSk6nZ2fQ/o.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
 var contentString63 = '<div id="content">'+
@@ -730,7 +730,7 @@ var contentString63 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Java Point Cafe</h1>'+
       '<div id="bodyContent">'+
       '<p>366 1st St, Benicia, CA 94510</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/16231003_1891206534424084_303968562253398016_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://s3-media4.fl.yelpcdn.com/bphoto/EHKsUedVHjMRPHG1_wSqng/l.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
 var contentString64 = '<div id="content">'+
@@ -739,7 +739,7 @@ var contentString64 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Mr. Holmes Bakehouse</h1>'+
       '<div id="bodyContent">'+
       '<p>1042 Larkin St, San Francisco, CA 94109</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20226142_108030749860760_3029794682218479616_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://s3-media2.fl.yelpcdn.com/bphoto/4E_YmV60pBjSW9g6gCgU8w/168s.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
 var contentString65 = '<div id="content">'+
@@ -748,7 +748,7 @@ var contentString65 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Origins Juicery</h1>'+
       '<div id="bodyContent">'+
       '<p>2070 Broadway, Redwood City, CA 94063</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/11850032_1636684409913459_591692297_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiUfuHHQaU93w4kchBuqyVA8Sw5ik73-VhyRZ_GqZV4v9h7wUARA" height=150 width=150></img>' +
       '</div>'+
       '</div>';
 var contentString66 = '<div id="content">'+
@@ -757,7 +757,7 @@ var contentString66 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Tin Pot Creamery</h1>'+
       '<div id="bodyContent">'+
       '<p>201 1st St, Los Altos, CA 94022</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20066533_787610331401636_4317963525860360192_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://pbs.twimg.com/profile_images/614582315537203201/gecAj9x4_400x400.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
 var contentString67 = '<div id="content">'+
@@ -766,7 +766,7 @@ var contentString67 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Sno Crave Tea House</h1>'+
       '<div id="bodyContent">'+
       '<p>1788 Decoto Rd, Union City, CA 94587</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/16123459_1354215524630500_860204919150346240_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://s3-media1.fl.yelpcdn.com/bphoto/CtlrKh8mMUdHB0T1Yh1MOA/ls.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
 var contentString68 = '<div id="content">'+
@@ -775,7 +775,7 @@ var contentString68 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Powder Shaved Snow</h1>'+
       '<div id="bodyContent">'+
       '<p>260 Divisadero St, San Francisco, CA 94117</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.117.937.937/18723020_132255027343463_2903865755768455168_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://s3-media4.fl.yelpcdn.com/bphoto/mtPSSbOdm0Uh6WkwEYwdNA/348s.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
 var contentString69 = '<div id="content">'+
@@ -784,7 +784,7 @@ var contentString69 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Aqua Club Dessert Cafe</h1>'+
       '<div id="bodyContent">'+
       '<p>440 San Mateo Ave, San Bruno, CA 94066</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/19380144_307008056409935_145598042714669056_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://s3.amazonaws.com/nomzplz-userfiles-mobilehub-1220713660/public/instagram/18888728_144007996145426_8970301749046804480_n%20BDwajB_lHF_%202017-08-08T04:42:05.447030" height=150 width=150></img>' +
       '</div>'+
       '</div>';
 var contentString70 = '<div id="content">'+
@@ -793,7 +793,7 @@ var contentString70 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Philz Coffee</h1>'+
       '<div id="bodyContent">'+
       '<p>101 Forest Ave, Palo Alto, CA 94301</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20067406_483124218688418_455364428565577728_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://s3-media4.fl.yelpcdn.com/bphoto/v5UIkKjBOruNpLf3Dbe-gA/ls.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
 var contentString71 = '<div id="content">'+
@@ -811,7 +811,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Icicles</h1>'+
       '<div id="bodyContent">'+
       '<p>19622 Stevens Creek Blvd, Cupertino, CA 95014</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.134.1080.1080/16124023_234736516935517_9219670539549802496_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://www.sanjose.org/sites/default/files/styles/listing_detail_image/public/2018-05/Icicles-Bowls.jpg?h=ab622562&itok=XZBd8_ga" height=150 width=150></img>' +
       '</div>'+
       '</div>';
    var contentString73 = '<div id="content">'+
@@ -820,7 +820,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Icicles</h1>'+
       '<div id="bodyContent">'+
       '<p>39055 Cedar Blvd #118, Newark, CA 94560</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.100.800.800/20225836_1416548208432845_4487232658056675328_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://i.pinimg.com/originals/ec/de/90/ecde905e52baecc937a6dc8730c92d77.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString74 = '<div id="content">'+
@@ -829,7 +829,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Icicles</h1>'+
       '<div id="bodyContent">'+
       '<p>600 Main St f, Pleasanton, CA 94566</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19932702_1848138662114552_8227025394679676928_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://fastly.4sqi.net/img/general/600x600/43306964_32UlfjkK7dQcI4Uc86DAnLocGOx7RqGSzUfuWtNQyIg.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString75 = '<div id="content">'+
@@ -838,7 +838,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Icicles</h1>'+
       '<div id="bodyContent">'+
       '<p>222 E 3rd Ave San Mateo, CA 94401</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/18879555_694874560695738_957270660348903424_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://www.berkeleyside.com/wp-content/uploads/2018/09/38514688_2145946148982873_6178273406908104704_o.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString76 = '<div id="content">'+
@@ -847,7 +847,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Soyful</h1>'+
       '<div id="bodyContent">'+
       '<p>999 Story Rd, San Jose, CA 95122</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.134.1080.1080/19764400_148121465752231_5842856978149277696_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://s3-media3.fl.yelpcdn.com/bphoto/T2NWw-OWPZjwTZII5uwfhQ/348s.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString77 = '<div id="content">'+
@@ -856,7 +856,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Soyful</h1>'+
       '<div id="bodyContent">'+
       '<p>3005 Silver Creek Rd #170, San Jose, CA 95121</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20065738_207942979736168_5716258303089049600_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://scontent-iad3-1.cdninstagram.com/vp/800205e97b2d7a20bee15243cde09668/5CDCAFFD/t51.2885-15/e35/31375915_195029964456871_4419848735761104896_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString78 = '<div id="content">'+
@@ -865,7 +865,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">The Baked Bear</h1>'+
       '<div id="bodyContent">'+
       '<p>303 Columbus Ave, San Francisco, CA 94133</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/e35/15276711_1300466040012576_464420294094749696_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://spoonuniversity.com/wp-content/uploads/sites/215/2016/06/baked-bear.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString79 = '<div id="content">'+
@@ -874,7 +874,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">The Tea Zone and Fruit Bar</h1>'+
       '<div id="bodyContent">'+
       '<p>805 E El Camino Real F, Mountain View, CA 94040</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12256883_543522022463909_1221693658_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://bayeats.github.io/bayeats/teazone2.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString80 = '<div id="content">'+
@@ -883,7 +883,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">The Tea Zone and Fruit Bar</h1>'+
       '<div id="bodyContent">'+
       '<p>980 S Winchester Blvd Suite 20, San Jose, CA 95128</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.102.1080.1080/19984820_1964173070533549_946688543831359488_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://bayeats.github.io/bayeats/teazone3.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString81 = '<div id="content">'+
@@ -892,7 +892,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">The Tea Zone and Fruit Bar</h1>'+
       '<div id="bodyContent">'+
       '<p>4750 Almaden Expy j, San Jose, CA 95118</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/e35/18579691_1652738731421528_7472644814685601792_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://s3-media2.fl.yelpcdn.com/bphoto/vlbpt7FLfdkoEad7OUHHOQ/ls.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString82 = '<div id="content">'+
@@ -901,7 +901,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Yumi Yogurt</h1>'+
       '<div id="bodyContent">'+
       '<p>3955 S El Camino Real, San Mateo, CA 94403</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.87.1080.1080/17818367_1859585614259644_7693006048906444800_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://i.pinimg.com/originals/d3/4b/62/d34b62ce422e0885a40ed539f24cca6a.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString83 = '<div id="content">'+
@@ -910,7 +910,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Yumi Yogurt</h1>'+
       '<div id="bodyContent">'+
       '<p>947 El Camino Real, Redwood City, CA 94063</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.134.1080.1080/13113826_215687855483659_1209676563_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://fastly.4sqi.net/img/general/600x600/92298505_t94481fJA2jQYLHW1VEnPyzdEjFpTE-g8x_TdL-Gn4k.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString84 = '<div id="content">'+
@@ -919,7 +919,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Honeyberry</h1>'+
       '<div id="bodyContent">'+
       '<p>93488 El Camino Real, Santa Clara, CA 95051</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/19228166_1844891242496438_27884890485686272_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://s3-media4.fl.yelpcdn.com/bphoto/S2EWA9vH1HDkzptGTs04Eg/348s.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString85 = '<div id="content">'+
@@ -928,7 +928,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Honeyberry</h1>'+
       '<div id="bodyContent">'+
       '<p>3655 N 1st St, San Jose, CA 95134</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/20347381_1914134448841567_100561062893453312_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://s3-media2.fl.yelpcdn.com/bphoto/0tvS5bmc4m-X6w40t6024g/o.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString86 = '<div id="content">'+
@@ -937,7 +937,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Honeyberry</h1>'+
       '<div id="bodyContent">'+
       '<p>1735 N Milpitas Blvd, Milpitas, CA 95035</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20181332_112528319393752_5240248722645843968_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://s3-media4.fl.yelpcdn.com/bphoto/xMl85mVVaJCyET99wfP2DA/348s.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString87 = '<div id="content">'+
@@ -946,7 +946,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Gong Cha</h1>'+
       '<div id="bodyContent">'+
       '<p>2200 Eastridge Loop, San Jose, CA 95122</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/18095696_1673811819590064_6107196740450910208_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://cdn.phonebooky.com/blog/wp-content/uploads/2018/06/31165819/milk-brown-sugar.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString88 = '<div id="content">'+
@@ -955,7 +955,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Gong Cha</h1>'+
       '<div id="bodyContent">'+
       '<p>1600 Saratoga Ave #115, San Jose, CA 95129</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18094699_142063806333448_6822813612805980160_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://s3-media4.fl.yelpcdn.com/bphoto/JMYok626E8bhyzjtyjL2lg/ls.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString89 = '<div id="content">'+
@@ -964,7 +964,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Gong Cha</h1>'+
       '<div id="bodyContent">'+
       '<p>1701 Lundy Ave, San Jose, CA 95131</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/14026575_1636776416634118_521972762_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://www.gong-cha-toronto.com/wp-content/uploads/sites/1713/2018/06/gong-cha-4.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString90 = '<div id="content">'+
@@ -973,7 +973,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Gong Cha</h1>'+
       '<div id="bodyContent">'+
       '<p>39736 Cedar Blvd, Newark, CA 94560</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/13737054_158388717922445_982147937_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="http://www.klia2.info/images/shop/gongcha/gong-cha-roselle-tea.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString91 = '<div id="content">'+
@@ -982,7 +982,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Gong Cha</h1>'+
       '<div id="bodyContent">'+
       '<p>439 Waverley St, Palo Alto, CA 94301</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/13584150_161593990924623_635890293_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://cdn.vox-cdn.com/thumbor/o4PfXOjAoTvZdjhJeN7LPee0w0c=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/10425441/gong.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
    var contentString92 = '<div id="content">'+
@@ -991,7 +991,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Gong Cha</h1>'+
       '<div id="bodyContent">'+
       '<p>110 S B St, San Mateo, CA 94401</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/13397424_733407746800978_1746301963_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://cdn.phonebooky.com/blog/wp-content/uploads/2018/06/31165819/milk-brown-sugar.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString93 = '<div id="content">'+
@@ -1000,7 +1000,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Gong Cha</h1>'+
       '<div id="bodyContent">'+
       '<p>140 Paseo De San Antonio #170, San Jose, CA 95112</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/e35/13117908_1725007941091209_1706458887_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="http://www.klia2.info/images/shop/gongcha/gong-cha-mango-green-tea.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString94 = '<div id="content">'+
@@ -1009,7 +1009,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Gong Cha</h1>'+
       '<div id="bodyContent">'+
       '<p>1641 Hollenbeck Ave, Sunnyvale, CA 94087</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12940861_1158886404142324_818743344_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://d38trduahtodj3.cloudfront.net/images.ashx?t=ig&rid=VisitBuenaPark&i=gong_cha.jpg&w=330&h=330&cropbox=1&cropboxhpos=center&stf=1" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString95 = '<div id="content">'+
@@ -1018,7 +1018,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Vampire Penguin</h1>'+
       '<div id="bodyContent">'+
       '<p>2575 Telegraph Ave, Berkeley, CA 94704</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.63.1080.1080/18949994_685534984971465_8655991558379667456_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://images.summitmedia-digital.com/spotph/images/2017/03/07/vampirepenguin7.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString96 = '<div id="content">'+
@@ -1027,7 +1027,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Nekter Juice Bar</h1>'+
       '<div id="bodyContent">'+
       '<p>800 Redwood Highway Frontage Rd #114, Mill Valley, CA 94941</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19379973_129813297602403_2563412704760954880_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://i.pinimg.com/originals/f6/d6/e6/f6d6e6ea195be78d802119501eb155f8.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString97 = '<div id="content">'+
@@ -1036,7 +1036,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Nekter Juice Bar</h1>'+
       '<div id="bodyContent">'+
       '<p>304 W El Camino Real, Sunnyvale, CA 94087</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/19228854_1774766902833978_5206415753426763776_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="http://static1.squarespace.com/static/57f5c2e52e69cfd39f9db081/5802532d893fc0f456c508b4/58d1b1588419c23d32893603/1490137433088/348s-1.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString98 = '<div id="content">'+
@@ -1045,7 +1045,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Nekter Juice Bar</h1>'+
       '<div id="bodyContent">'+
       '<p>685 San Antonio Rd #15, Mountain View, CA 94040</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19051807_307313496358481_6563823189321842688_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://cdn.vox-cdn.com/thumbor/Hpw2Gc2msQXMj8g77FGR8Fr3aRw=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/12547069/Nekter_Juice_Bar_Rainbow.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString99 = '<div id="content">'+
@@ -1054,7 +1054,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Teasociety</h1>'+
       '<div id="bodyContent">'+
       '<p>55 N Milpitas Blvd, Milpitas, CA 95035</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/17596033_391951604524714_8862121113522536448_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://s3-media3.fl.yelpcdn.com/bphoto/xhbjVyLNlaHJ1aH4LE6aqA/348s.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString100 = '<div id="content">'+
@@ -1099,7 +1099,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Milkcow</h1>'+
       '<div id="bodyContent">'+
       '<p>1150 El Camino Real, Shop 223, San Bruno, CA 94066</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19379451_463278797373044_8130668331674894336_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="http://img1.wsimg.com/isteam/ip/9f4ea995-efdf-4248-9e3f-2e01913ecf7b/2e46687d-507e-477f-a0a5-e1846d256943.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString105 = '<div id="content">'+
@@ -1108,7 +1108,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Plentea</h1>'+
       '<div id="bodyContent">'+
       '<p>341 Kearny St, San Francisco, CA 94108</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c135.0.809.809/20184219_1872127439775146_7256756737363935232_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://i.pinimg.com/originals/18/61/63/1861635472a122a02a8b195ec0e60dcf.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString106 = '<div id="content">'+
@@ -1117,7 +1117,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Smitten</h1>'+
       '<div id="bodyContent">'+
       '<p>432 Octavia St #1A, San Francisco, CA 94102</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.134.1080.1080/20398872_2329267817298357_8003035806446911488_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://media-cdn.tripadvisor.com/media/photo-p/0a/ea/50/db/photo1jpg.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
    var contentString107 = '<div id="content">'+
@@ -1126,7 +1126,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Smitten</h1>'+
       '<div id="bodyContent">'+
       '<p>3055 Olin Ave #1055, San Jose, CA 95128</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20398129_451901071856853_8096227766317350912_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://www.smittenicecream.com/wp-content/uploads/2016/05/Smitten-Ice-Cream-Hayes-Valley-6-840x840.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString108 = '<div id="content">'+
@@ -1135,7 +1135,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Smitten</h1>'+
       '<div id="bodyContent">'+
       '<p>2404 California St, San Francisco, CA 94115</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.134.1080.1080/20398872_2329267817298357_8003035806446911488_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://webapi.nearlist.com/resize/400x400/img/https://api.nearlist.com/parse/files/0b0b5da60fda3376399a58415b54eae9a7495845/2c5c0f9c4e3603bae657beb968237ec3_Q67hODc89e_3_Gallery%403x.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString109 = '<div id="content">'+
