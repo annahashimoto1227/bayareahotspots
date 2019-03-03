@@ -1144,7 +1144,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Uji Time</h1>'+
       '<div id="bodyContent">'+
       '<p>22 Peace Plz #440, San Francisco, CA 94115</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c53.0.973.973/20398097_1421525167928107_2700071185365860352_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://cdn-az.allevents.in/banners/32fa1fb7a111eef29cffab9cccd1f2b6" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString110 = '<div id="content">'+
@@ -1153,7 +1153,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Asha Tea House</h1>'+
       '<div id="bodyContent">'+
       '<p>17 Kearny St, San Francisco, CA 94108</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20065972_1983390435280650_3362251766841212928_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="http://i0.wp.com/www.dailycal.org/assets/uploads/2016/03/IMG_8588.jpg?resize=450%2C450" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString111 = '<div id="content">'+
@@ -1162,7 +1162,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Fantasia</h1>'+
       '<div id="bodyContent">'+
       '<p>378 Santana Row, San Jose, CA 95128</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.7.1080.1080/19436367_680764458773828_3694869839723102208_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://s3-media1.fl.yelpcdn.com/bphoto/YoVGLpYjcpL--sa-4Lgcvg/ls.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString112 = '<div id="content">'+
@@ -1171,7 +1171,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Fantasia</h1>'+
       '<div id="bodyContent">'+
       '<p>10933 N Wolfe Rd, Cupertino, CA 95014</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18579647_412081942511721_8726373956258365440_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://s3-media1.fl.yelpcdn.com/bphoto/KyTPIk3XfPe0YhLdP0uQCA/ls.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString113 = '<div id="content">'+
@@ -1180,7 +1180,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Fantasia</h1>'+
       '<div id="bodyContent">'+
       '<p>528 Barber Ln, Milpitas, CA 95035</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20478777_1920699544626590_8253277875470336_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://s3-media2.fl.yelpcdn.com/bphoto/yp6W1rZpHHWHwC7MZIDkcA/ls.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString114 = '<div id="content">'+
@@ -1189,7 +1189,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Sno Crave Tea House</h1>'+
       '<div id="bodyContent">'+
       '<p>1777 N Milpitas Blvd, Milpitas, CA 95035</p>' +
-'<img id="myImage" src="https://s3-media1.fl.yelpcdn.com/bphoto/TYLnnU8D4bSPxHEAGXPSDw/258s.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://s3-media3.fl.yelpcdn.com/bphoto/xwUhaf1Q8Te3ev5D8Rl8aw/ls.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString115 = '<div id="content">'+
@@ -1198,7 +1198,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Sno Crave Tea House</h1>'+
       '<div id="bodyContent">'+
       '<p>43773 Boscell Rd, Fremont, CA 94538</p>' +
-'<img id="myImage" src="https://s3-media4.fl.yelpcdn.com/bphoto/7qRpSSed2wUmXJdFvug26Q/180s.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://s3-media3.fl.yelpcdn.com/bphoto/0iBzZQ5E9_LoSxq2RRcE3A/ls.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString116 = '<div id="content">'+
@@ -1207,7 +1207,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Psycho Donuts</h1>'+
       '<div id="bodyContent">'+
       '<p>288 S 2nd St, San Jose, CA 95113</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.103.887.887/20394109_1922002128079828_264777836080922624_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://s3-media1.fl.yelpcdn.com/bphoto/rJvYL7mVxnRki_BQS_P3MQ/348s.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString117 = '<div id="content">'+
@@ -1216,7 +1216,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Psycho Donuts</h1>'+
       '<div id="bodyContent">'+
       '<p>2000 El Camino Real #11, Santa Clara, CA 95050</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20582866_1438503109576639_2884405881720537088_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://i.pinimg.com/originals/79/63/31/796331d9645447fe334dd0b368dd5d8e.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString118 = '<div id="content">'+
@@ -1225,7 +1225,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Tin Pot Creamery</h1>'+
       '<div id="bodyContent">'+
       '<p>855 El Camino Real #121, Palo Alto, CA 94301</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/20180669_503990223277417_280853177115344896_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://fastly.4sqi.net/img/general/200x200/11096845_R2Z_ewyMYki81FtDC5TIZpM_jcBPodD0S4rWPqql-Qs.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString119 = '<div id="content">'+
@@ -1234,7 +1234,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Tin Pot Creamery</h1>'+
       '<div id="bodyContent">'+
       '<p>1875 S Bascom Ave #370, Campbell, CA 95008</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18809554_1336308053073767_5110977675984371712_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://pbs.twimg.com/profile_images/614582315537203201/gecAj9x4_400x400.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
 var contentString120 = '<div id="content">'+
@@ -1243,7 +1243,7 @@ var contentString120 = '<div id="content">'+
        '<h1 id="firstHeading" class="firstHeading">CREAM</h1>'+
        '<div id="bodyContent">'+
        '<p>49 S 1st St, San Jose, CA 95113</p>' +
- '<img id="myImage" src="https://s-media-cache-ak0.pinimg.com/736x/2e/07/e0/2e07e077a2880dc0b70b748f3b69b42c--tag-icecream.jpg" height=150 width=150></img>' +
+ '<img id="myImage" src="https://media-cdn.tripadvisor.com/media/photo-s/08/58/fd/d9/1-or-2-sandwich.jpg" height=150 width=150></img>' +
        '</div>'+
        '</div>';
  var contentString121 = '<div id="content">'+
@@ -1252,7 +1252,7 @@ var contentString120 = '<div id="content">'+
        '<h1 id="firstHeading" class="firstHeading">CREAM</h1>'+
        '<div id="bodyContent">'+
        '<p>19501 Stevens Creek Blvd #102, Cupertino, CA 95014</p>' +
- '<img id="myImage" src="https://s-media-cache-ak0.pinimg.com/736x/2e/07/e0/2e07e077a2880dc0b70b748f3b69b42c--tag-icecream.jpg" height=150 width=150></img>' +
+ '<img id="myImage" src="https://s3-media1.fl.yelpcdn.com/bphoto/1_hQN0yl-22r25GGmQTMCg/ls.jpg" height=150 width=150></img>' +
        '</div>'+
        '</div>';
  var contentString122 = '<div id="content">'+
@@ -1261,7 +1261,7 @@ var contentString120 = '<div id="content">'+
        '<h1 id="firstHeading" class="firstHeading">CREAM</h1>'+
        '<div id="bodyContent">'+
        '<p>3106 16th St, San Francisco, CA 94103</p>' +
- '<img id="myImage" src="https://s-media-cache-ak0.pinimg.com/736x/2e/07/e0/2e07e077a2880dc0b70b748f3b69b42c--tag-icecream.jpg" height=150 width=150></img>' +
+ '<img id="myImage" src="https://pbs.twimg.com/media/CBHtpB1UgAASkGw.jpg" height=150 width=150></img>' +
        '</div>'+
        '</div>';
  var contentString123 = '<div id="content">'+
@@ -1270,7 +1270,7 @@ var contentString120 = '<div id="content">'+
        '<h1 id="firstHeading" class="firstHeading">CREAM</h1>'+
        '<div id="bodyContent">'+
        '<p>134 S B St, San Mateo, CA 94401</p>' +
- '<img id="myImage" src="https://s-media-cache-ak0.pinimg.com/736x/2e/07/e0/2e07e077a2880dc0b70b748f3b69b42c--tag-icecream.jpg" height=150 width=150></img>' +
+ '<img id="myImage" src="https://zagat-photos.imgix.net/ChIJ22MUJC98hYARqoJqj5J4EMA/12f9146ca4ec97e6d974d8ff9ff66dd4.jpg?fit=crop&crop=center&max-w=384&max-h=384&auto=format" height=150 width=150></img>' +
        '</div>'+
        '</div>';
  var contentString124 = '<div id="content">'+
@@ -1279,7 +1279,7 @@ var contentString120 = '<div id="content">'+
        '<h1 id="firstHeading" class="firstHeading">CREAM</h1>'+
        '<div id="bodyContent">'+
        '<p>2630 5th St, Alameda, CA 94501</p>' +
- '<img id="myImage" src="https://s-media-cache-ak0.pinimg.com/736x/2e/07/e0/2e07e077a2880dc0b70b748f3b69b42c--tag-icecream.jpg" height=150 width=150></img>' +
+ '<img id="myImage" src="https://media-cdn.tripadvisor.com/media/photo-s/08/58/fd/d9/1-or-2-sandwich.jpg" height=150 width=150></img>' +
        '</div>'+
        '</div>';
  var contentString125 = '<div id="content">'+//edit from here
@@ -1288,7 +1288,7 @@ var contentString120 = '<div id="content">'+
        '<h1 id="firstHeading" class="firstHeading">CREAM</h1>'+
        '<div id="bodyContent">'+
        '<p>3251 20th Ave, San Francisco, CA 94132</p>' +
- '<img id="myImage" src="https://s-media-cache-ak0.pinimg.com/736x/2e/07/e0/2e07e077a2880dc0b70b748f3b69b42c--tag-icecream.jpg" height=150 width=150></img>' +
+ '<img id="myImage" src="https://media-cdn.tripadvisor.com/media/photo-s/08/58/fd/d9/1-or-2-sandwich.jpg" height=150 width=150></img>' +
        '</div>'+
        '</div>';
  var contentString126 = '<div id="content">'+
@@ -1297,7 +1297,7 @@ var contentString120 = '<div id="content">'+
        '<h1 id="firstHeading" class="firstHeading">CREAM</h1>'+
        '<div id="bodyContent">'+
        '<p>2399 Telegraph Ave, Berkeley, CA 94704</p>' +
- '<img id="myImage" src="https://s-media-cache-ak0.pinimg.com/736x/2e/07/e0/2e07e077a2880dc0b70b748f3b69b42c--tag-icecream.jpg" height=150 width=150></img>' +
+ '<img id="myImage" src="https://media-cdn.tripadvisor.com/media/photo-s/08/58/fd/d9/1-or-2-sandwich.jpg" height=150 width=150></img>' +
        '</div>'+
        '</div>';
  var contentString127 = '<div id="content">'+
@@ -1306,7 +1306,7 @@ var contentString120 = '<div id="content">'+
        '<h1 id="firstHeading" class="firstHeading">CREAM</h1>'+
        '<div id="bodyContent">'+
        '<p>43982 Pacific Commons Blvd, Fremont, CA 94538</p>' +
- '<img id="myImage" src="https://s-media-cache-ak0.pinimg.com/736x/2e/07/e0/2e07e077a2880dc0b70b748f3b69b42c--tag-icecream.jpg" height=150 width=150></img>' +
+ '<img id="myImage" src="https://media-cdn.tripadvisor.com/media/photo-s/08/58/fd/d9/1-or-2-sandwich.jpg" height=150 width=150></img>' +
        '</div>'+
        '</div>';
  var contentString128 = '<div id="content">'+
@@ -1315,7 +1315,7 @@ var contentString120 = '<div id="content">'+
        '<h1 id="firstHeading" class="firstHeading">CREAM</h1>'+
        '<div id="bodyContent">'+
        '<p>2375 Railroad Ave, Livermore, CA 94550</p>' +
- '<img id="myImage" src="https://s-media-cache-ak0.pinimg.com/736x/2e/07/e0/2e07e077a2880dc0b70b748f3b69b42c--tag-icecream.jpg" height=150 width=150></img>' +
+ '<img id="myImage" src="https://media-cdn.tripadvisor.com/media/photo-s/08/58/fd/d9/1-or-2-sandwich.jpg" height=150 width=150></img>' +
        '</div>'+
        '</div>';
 var contentString130 = '<div id="content">'+
@@ -1324,7 +1324,7 @@ var contentString130 = '<div id="content">'+
        '<h1 id="firstHeading" class="firstHeading">T-Pumps</h1>'+
        '<div id="bodyContent">'+
        '<p>19959 Stevens Creek Blvd, Cupertino, CA 95014</p>' +
- '<img id="myImage" src="https://s-media-cache-ak0.pinimg.com/736x/2e/07/e0/2e07e077a2880dc0b70b748f3b69b42c--tag-icecream.jpg" height=150 width=150></img>' +
+ '<img id="myImage" src="https://pbs.twimg.com/profile_images/683500469331726338/3pseeoS2_400x400.jpg" height=150 width=150></img>' +
        '</div>'+
        '</div>';
  var contentString131 = '<div id="content">'+
@@ -1333,7 +1333,7 @@ var contentString130 = '<div id="content">'+
        '<h1 id="firstHeading" class="firstHeading">T-Pumps</h1>'+
        '<div id="bodyContent">'+
        '<p>985 E Hillsdale Blvd, Foster City, CA 94404</p>' +
- '<img id="myImage" src="https://s-media-cache-ak0.pinimg.com/736x/2e/07/e0/2e07e077a2880dc0b70b748f3b69b42c--tag-icecream.jpg" height=150 width=150></img>' +
+ '<img id="myImage" src="https://pbs.twimg.com/profile_images/683500469331726338/3pseeoS2_400x400.jpg" height=150 width=150></img>' +
        '</div>'+
        '</div>';
  var contentString132 = '<div id="content">'+
@@ -1342,7 +1342,7 @@ var contentString130 = '<div id="content">'+
        '<h1 id="firstHeading" class="firstHeading">T-Pumps</h1>'+
        '<div id="bodyContent">'+
        '<p>1118 Burlingame Ave, Burlingame, CA 94010</p>' +
- '<img id="myImage" src="https://s-media-cache-ak0.pinimg.com/736x/2e/07/e0/2e07e077a2880dc0b70b748f3b69b42c--tag-icecream.jpg" height=150 width=150></img>' +
+ '<img id="myImage" src="https://pbs.twimg.com/profile_images/683500469331726338/3pseeoS2_400x400.jpg" height=150 width=150></img>' +
        '</div>'+
        '</div>';
 var contentString133 = '<div id="content">'+
@@ -1351,7 +1351,7 @@ var contentString133 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Boba Guys</h1>'+
       '<div id="bodyContent">'+
       '<p>8 Octavia St #308, San Francisco, CA 94102</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20225722_2347078135516624_4915874860963463168_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://s3-media4.fl.yelpcdn.com/bphoto/BdFjh4R2t_biUHkqFnoF0Q/180s.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString134 = '<div id="content">'+
@@ -1360,7 +1360,7 @@ var contentString133 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Boba Guys</h1>'+
       '<div id="bodyContent">'+
       '<p>3491 19th St, San Francisco, CA 94110</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.134.1080.1080/20225869_271872319962681_3988202357849587712_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="http://static1.squarespace.com/static/50ce46ece4b01020c34fd52b/t/55f25fb7e4b0fdc2e7a215a6/1441947579898/?format=1500w" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString135 = '<div id="content">'+
@@ -1369,7 +1369,7 @@ var contentString133 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Boba Guys</h1>'+
       '<div id="bodyContent">'+
       '<p>429 Stockton St., San Francisco CA 94108</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/e35/c0.51.412.412/19436286_1903921563199595_3766218270235951104_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://s3-media1.fl.yelpcdn.com/bphoto/LFs0QD_LJgPHEw8Y1fTGdg/180s.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString136 = '<div id="content">'+
@@ -1378,7 +1378,7 @@ var contentString133 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Boba Guys</h1>'+
       '<div id="bodyContent">'+
       '<p>1522 Fillmore St., San Francisco CA 94115</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/18888376_832167513598632_6965570745107742720_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://media-cdn.tripadvisor.com/media/photo-s/11/81/41/29/boba-guys.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString137 = '<div id="content">'+
@@ -1387,7 +1387,7 @@ var contentString133 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Boba Guys</h1>'+
       '<div id="bodyContent">'+
       '<p>1002 16th. St., San Francisco CA 94107</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/18812301_812013242307330_2445604556445319168_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://static1.squarespace.com/static/50ce46ece4b01020c34fd52b/t/562063fce4b0feb0d84d155f/1444963324981/" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString138 = '<div id="content">'+
@@ -1396,7 +1396,7 @@ var contentString133 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Acre Coffee</h1>'+
       '<div id="bodyContent">'+
       '<p>11080 Petaluma Blvd N, Petaluma, CA 94952</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18513912_129174324307428_2317164495761309696_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaptQsvC1dIxeAIikkIZJjygdREqIiKehgyf6TgT0smZxQJ4f0" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString139 = '<div id="content">'+
@@ -1405,7 +1405,7 @@ var contentString133 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Acre Coffee</h1>'+
       '<div id="bodyContent">'+
       '<p>173 N McDowell Blvd, Petaluma, CA 94954</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18513037_777015392500320_5126112423475937280_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://img.sunset02.com/sites/default/files/image/2015/05/main/acre-coffee-david-fenton-m.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString140 = '<div id="content">'+
@@ -1414,7 +1414,7 @@ var contentString133 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Acre Coffee</h1>'+
       '<div id="bodyContent">'+
       '<p>2365 Midway Dr, Santa Rosa, CA 95405</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20398442_271547749993417_9057777326489600000_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://steemitimages.com/640x0/https://sarahssojournsite.files.wordpress.com/2016/12/acre-coffee.jpg?w=680" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString141 = '<div id="content">'+
@@ -1423,7 +1423,7 @@ var contentString133 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">James and the Giant Cupcake</h1>'+
       '<div id="bodyContent">'+
       '<p>341 17th St, Oakland, CA 94612</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20066943_114012929243579_3397798050054275072_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://s3-media1.fl.yelpcdn.com/bphoto/AR5RMVLNgqKRhTdFS7wxhw/348s.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
 
