@@ -1063,7 +1063,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Sift Dessert Bar</h1>'+
       '<div id="bodyContent">'+
       '<p>404 Mendocino Ave A, Santa Rosa, CA 95401</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/17265990_100852657117111_2457753137730027520_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://www.bottlerocknapavalley.com/wp-content/uploads/2018/12/BR19-Sift-Dessert-Bar.png" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString101 = '<div id="content">'+
@@ -1072,7 +1072,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Sift Dessert Bar</h1>'+
       '<div id="bodyContent">'+
       '<p>2411 California St, San Francisco, CA 94115</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.1.1080.1080/19623640_1986763971556591_4910688537629687808_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS750bVpxst3S0q5nTUv2rgmtlEcMphtlpMyT8HwZHkNG9fYTTD" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString102 = '<div id="content">'+
@@ -1081,7 +1081,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Sift Dessert Bar</h1>'+
       '<div id="bodyContent">'+
       '<p>7582 Commerce Blvd, Cotati, CA 94931</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18253138_1764238247130141_9199965903905619968_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS750bVpxst3S0q5nTUv2rgmtlEcMphtlpMyT8HwZHkNG9fYTTD" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString103 = '<div id="content">'+
@@ -1090,7 +1090,7 @@ var contentString71 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">Sift Dessert Bar</h1>'+
       '<div id="bodyContent">'+
       '<p>401 Kenilworth Dr #920, Petaluma, CA 94952</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19052077_1917042755242023_5280419607599906816_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="http://vp.cdn.cityvoterinc.com/GetImage.ashx?img=00/00/03/06/85/42/3068542-2207278.jpg&w=220&sq=1&cb=0" height=150 width=150></img>' +
       '</div>'+
       '</div>';
   var contentString104 = '<div id="content">'+
