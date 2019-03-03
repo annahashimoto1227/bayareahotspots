@@ -505,7 +505,7 @@ var contentString38 = '<div id="content">'+
       '<h1 id="firstHeading" class="firstHeading">POP</h1>'+
       '<div id="bodyContent">'+
       '<p>563 West Clover Road, (INSIDE STARBREAD BAKERY), Tracy, CA 95376</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20214613_1896500573934595_733037341312024576_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://s3-media1.fl.yelpcdn.com/bphoto/NG5qjlrWInLlawJaF0Akxg/o.jpg" height=150 width=150></img>' +
       '</div>'+
       '</div>';
 var contentString39 = '<div id="content">'+
