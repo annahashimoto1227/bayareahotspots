@@ -631,7 +631,7 @@ var contentString52= '<div id="content">'+
     '<h1 id="firstHeading" class="firstHeading">Sift Dessert Bar</h1>'+
     '<div id="bodyContent">'+
     '<p>3816 Bel Aire Plaza, Napa, CA 94558</p>' +
-'<img id="myImage" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12912490_213523012351231_540185528_n.jpg" height=150 width=150></img>' +
+'<img id="myImage" src="https://www.bottlerocknapavalley.com/wp-content/uploads/2018/12/BR19-Sift-Dessert-Bar.png" height=150 width=150></img>' +
     '</div>'+
     '</div>';
 var contentString53= '<div id="content">'+
